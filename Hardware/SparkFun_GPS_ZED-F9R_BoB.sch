@@ -24701,8 +24701,8 @@ Battery Characteristics:
 <wire x1="11.038" y1="8.38" x2="-10.962" y2="8.38" width="0.2032" layer="51"/>
 <wire x1="-10.962" y1="8.38" x2="-10.962" y2="-8.62" width="0.2032" layer="51"/>
 <circle x="-8.362" y="-9.37" radius="0.5" width="0" layer="21"/>
-<text x="-2.112" y="9.38" size="1" layer="25">&gt;NAME</text>
-<text x="-2.112" y="-10.62" size="1" layer="27">&gt;VALUE</text>
+<text x="-2.112" y="9.38" size="0.762" layer="25">&gt;NAME</text>
+<text x="-2.112" y="-10.62" size="0.762" layer="27">&gt;VALUE</text>
 <wire x1="-10.962" y1="-8.636" x2="-7.874" y2="-8.636" width="0.2032" layer="21"/>
 <wire x1="7.874" y1="-8.636" x2="11.038" y2="-8.636" width="0.2032" layer="21"/>
 <wire x1="11.038" y1="-8.636" x2="11.038" y2="-7.366" width="0.2032" layer="21"/>
@@ -24745,8 +24745,8 @@ Mechanical Specifications
 &lt;li&gt;&lt;/li&gt;
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-<text x="-2.916" y="3.47633125" size="1.016" layer="25">&gt;NAME</text>
-<text x="-2.916" y="-3.85733125" size="1.016" layer="27">&gt;VALUE</text>
+<text x="-1.646" y="2.96833125" size="0.6096" layer="25">&gt;NAME</text>
+<text x="-1.773" y="-3.47633125" size="0.6096" layer="27">&gt;VALUE</text>
 <wire x1="-2.073" y1="-2.4" x2="1.8254" y2="-2.4" width="0.1" layer="51"/>
 <wire x1="1.8254" y1="-2.4" x2="1.8254" y2="2.6" width="0.1" layer="51"/>
 <wire x1="1.8254" y1="2.6" x2="-2.073" y2="2.6" width="0.1" layer="51"/>
@@ -25448,7 +25448,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="FD2" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL" value="FIDUCIALUFIDUCIAL"/>
 <part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL" value="FIDUCIALUFIDUCIAL"/>
 <part name="FD1" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="UFIDUCIAL" value="FIDUCIALUFIDUCIAL"/>
-<part name="$1_25_$_2020-03-30_22-47-33" library="SparkFun-Hardware" deviceset="STAND-OFF" device="TIGHT"/>
+<part name="$1_25_$_2020-03-30_22-52-05" library="SparkFun-Hardware" deviceset="STAND-OFF" device="TIGHT"/>
 <part name="H2" library="SparkFun-Hardware" deviceset="STAND-OFF" device="TIGHT"/>
 <part name="JP5" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NO" device="_SILK" package3d_urn="urn:adsk.eagle:package:39279/1"/>
 <part name="GND11" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
@@ -25646,7 +25646,7 @@ Input: 3-24V</text>
 <instance part="FD2" gate="G$1" x="424.18" y="30.48" smashed="yes"/>
 <instance part="FD4" gate="G$1" x="426.72" y="30.48" smashed="yes"/>
 <instance part="FD1" gate="G$1" x="424.18" y="33.02" smashed="yes"/>
-<instance part="$1_25_$_2020-03-30_22-47-33" gate="G$1" x="411.48" y="33.02" smashed="yes"/>
+<instance part="$1_25_$_2020-03-30_22-52-05" gate="G$1" x="411.48" y="33.02" smashed="yes"/>
 <instance part="H2" gate="G$1" x="411.48" y="30.48" smashed="yes"/>
 <instance part="JP5" gate="G$1" x="248.92" y="68.58" smashed="yes">
 <attribute name="NAME" x="246.38" y="71.12" size="1.778" layer="95" font="vector"/>
