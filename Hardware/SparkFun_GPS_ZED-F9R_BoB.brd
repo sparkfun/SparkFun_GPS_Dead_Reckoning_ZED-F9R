@@ -2053,27 +2053,6 @@ high temperature heat resistance.
 </package>
 </packages>
 </library>
-<library name="classified">
-<packages>
-<package name="0603">
-<description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
-<wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="0.7" x2="1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="-0.7" x2="-1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
-<wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
-<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
-<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
-</package>
-</packages>
-</library>
 <library name="SparkFun-Coils">
 <description>&lt;h3&gt;SparkFun Coils&lt;/h3&gt;
 In this library you'll find magnetics.
@@ -12329,12 +12308,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-15071" x="12.10855" y="7.3144" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" value="15V" x="36.10855" y="9.3144" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R7" library="classified" package="0603" value="910" x="24.7854" y="7.7822" smashed="yes" rot="R270">
+<element name="R7" library="SparkFun-Resistors" package="0603" value="910" x="24.7854" y="7.7822" smashed="yes" rot="R270">
 <attribute name="NAME" x="25.5474" y="7.7822" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-13860" x="26.7854" y="28.7822" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 <attribute name="VALUE" x="24.0234" y="7.7822" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="R4" library="classified" package="0603" value="910" x="30.475" y="13.6808" smashed="yes" rot="R90">
+<element name="R4" library="SparkFun-Resistors" package="0603" value="910" x="30.475" y="13.6808" smashed="yes" rot="R90">
 <attribute name="NAME" x="29.713" y="13.6808" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-13860" x="32.475" y="-11.3192" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="VALUE" x="31.237" y="13.6808" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
