@@ -165,6 +165,25 @@
 <dimension x1="34.29" y1="49.53" x2="43.18" y2="53.34" x3="38.735" y3="59.69" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <text x="12.7" y="-6.35" size="1.778" layer="47" font="vector" ratio="15">Units In Inches</text>
 <text x="42.037" y="8.636" size="1.27" layer="16" font="vector" ratio="15" rot="SMR270">v10</text>
+<wire x1="8.636" y1="10.795" x2="8.636" y2="14.605" width="0.254" layer="21"/>
+<wire x1="8.636" y1="14.605" x2="12.446" y2="14.605" width="0.254" layer="21"/>
+<wire x1="8.636" y1="10.795" x2="8.255" y2="11.176" width="0.254" layer="21"/>
+<wire x1="8.255" y1="11.176" x2="9.017" y2="11.176" width="0.254" layer="21"/>
+<wire x1="9.017" y1="11.176" x2="8.636" y2="10.795" width="0.254" layer="21"/>
+<wire x1="12.446" y1="14.605" x2="12.065" y2="14.986" width="0.254" layer="21"/>
+<wire x1="12.065" y1="14.986" x2="12.065" y2="14.224" width="0.254" layer="21"/>
+<wire x1="12.065" y1="14.224" x2="12.446" y2="14.605" width="0.254" layer="21"/>
+<circle x="8.636" y="14.605" radius="0.567959375" width="0.254" layer="21"/>
+<wire x1="8.636" y1="10.795" x2="8.636" y2="14.605" width="0.254" layer="22"/>
+<wire x1="8.636" y1="14.605" x2="12.446" y2="14.605" width="0.254" layer="22"/>
+<wire x1="8.636" y1="10.795" x2="9.017" y2="11.176" width="0.254" layer="22"/>
+<wire x1="9.017" y1="11.176" x2="8.255" y2="11.176" width="0.254" layer="22"/>
+<wire x1="8.255" y1="11.176" x2="8.636" y2="10.795" width="0.254" layer="22"/>
+<wire x1="12.446" y1="14.605" x2="12.065" y2="14.986" width="0.254" layer="22"/>
+<wire x1="12.065" y1="14.986" x2="12.065" y2="14.224" width="0.254" layer="22"/>
+<wire x1="12.065" y1="14.224" x2="12.446" y2="14.605" width="0.254" layer="22"/>
+<wire x1="8.2005875" y1="15.040409375" x2="9.0986125" y2="14.142384375" width="0.254" layer="22"/>
+<wire x1="9.046009375" y1="14.989609375" x2="8.147984375" y2="14.091584375" width="0.254" layer="22"/>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -11317,6 +11336,124 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </package>
 </packages>
 </library>
+<library name="Orientation">
+<packages>
+<package name="X1">
+<rectangle x1="1" y1="0.5" x2="1.12" y2="0.54" layer="21"/>
+<rectangle x1="1.72" y1="0.5" x2="1.84" y2="0.54" layer="21"/>
+<rectangle x1="0.96" y1="0.46" x2="1.16" y2="0.5" layer="21"/>
+<rectangle x1="1.68" y1="0.46" x2="1.92" y2="0.5" layer="21"/>
+<rectangle x1="0.92" y1="0.42" x2="1.2" y2="0.46" layer="21"/>
+<rectangle x1="1.64" y1="0.42" x2="1.92" y2="0.46" layer="21"/>
+<rectangle x1="0.92" y1="0.38" x2="1.24" y2="0.42" layer="21"/>
+<rectangle x1="1.6" y1="0.38" x2="1.96" y2="0.42" layer="21"/>
+<rectangle x1="0.92" y1="0.34" x2="1.28" y2="0.38" layer="21"/>
+<rectangle x1="1.6" y1="0.34" x2="1.92" y2="0.38" layer="21"/>
+<rectangle x1="0.96" y1="0.3" x2="1.32" y2="0.34" layer="21"/>
+<rectangle x1="1.56" y1="0.3" x2="1.92" y2="0.34" layer="21"/>
+<rectangle x1="1" y1="0.26" x2="1.36" y2="0.3" layer="21"/>
+<rectangle x1="1.52" y1="0.26" x2="1.88" y2="0.3" layer="21"/>
+<rectangle x1="1.04" y1="0.22" x2="1.36" y2="0.26" layer="21"/>
+<rectangle x1="1.48" y1="0.22" x2="1.84" y2="0.26" layer="21"/>
+<rectangle x1="1.04" y1="0.18" x2="1.4" y2="0.22" layer="21"/>
+<rectangle x1="1.44" y1="0.18" x2="1.8" y2="0.22" layer="21"/>
+<rectangle x1="1.08" y1="0.14" x2="1.76" y2="0.18" layer="21"/>
+<rectangle x1="1.12" y1="0.1" x2="1.72" y2="0.14" layer="21"/>
+<rectangle x1="1.16" y1="0.06" x2="1.68" y2="0.1" layer="21"/>
+<rectangle x1="1.2" y1="0.02" x2="1.64" y2="0.06" layer="21"/>
+<rectangle x1="1.24" y1="-0.02" x2="1.6" y2="0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.06" x2="1.64" y2="-0.02" layer="21"/>
+<rectangle x1="1.16" y1="-0.1" x2="1.68" y2="-0.06" layer="21"/>
+<rectangle x1="1.16" y1="-0.14" x2="1.72" y2="-0.1" layer="21"/>
+<rectangle x1="1.12" y1="-0.18" x2="1.76" y2="-0.14" layer="21"/>
+<rectangle x1="1.08" y1="-0.22" x2="1.8" y2="-0.18" layer="21"/>
+<rectangle x1="1.04" y1="-0.26" x2="1.4" y2="-0.22" layer="21"/>
+<rectangle x1="1.48" y1="-0.26" x2="1.84" y2="-0.22" layer="21"/>
+<rectangle x1="1" y1="-0.3" x2="1.36" y2="-0.26" layer="21"/>
+<rectangle x1="1.52" y1="-0.3" x2="1.84" y2="-0.26" layer="21"/>
+<rectangle x1="0.96" y1="-0.34" x2="1.32" y2="-0.3" layer="21"/>
+<rectangle x1="1.52" y1="-0.34" x2="1.88" y2="-0.3" layer="21"/>
+<rectangle x1="0.92" y1="-0.38" x2="1.28" y2="-0.34" layer="21"/>
+<rectangle x1="1.56" y1="-0.38" x2="1.92" y2="-0.34" layer="21"/>
+<rectangle x1="0.92" y1="-0.42" x2="1.24" y2="-0.38" layer="21"/>
+<rectangle x1="1.6" y1="-0.42" x2="1.96" y2="-0.38" layer="21"/>
+<rectangle x1="0.92" y1="-0.46" x2="1.2" y2="-0.42" layer="21"/>
+<rectangle x1="1.64" y1="-0.46" x2="1.96" y2="-0.42" layer="21"/>
+<rectangle x1="0.92" y1="-0.5" x2="1.16" y2="-0.46" layer="21"/>
+<rectangle x1="1.68" y1="-0.5" x2="1.92" y2="-0.46" layer="21"/>
+<rectangle x1="1" y1="-0.54" x2="1.12" y2="-0.5" layer="21"/>
+<rectangle x1="1.72" y1="-0.54" x2="1.88" y2="-0.5" layer="21"/>
+</package>
+<package name="Y2">
+<rectangle x1="1.04" y1="0.5" x2="1.12" y2="0.54" layer="21"/>
+<rectangle x1="1.64" y1="0.5" x2="1.76" y2="0.54" layer="21"/>
+<rectangle x1="0.96" y1="0.46" x2="1.16" y2="0.5" layer="21"/>
+<rectangle x1="1.6" y1="0.46" x2="1.8" y2="0.5" layer="21"/>
+<rectangle x1="0.92" y1="0.42" x2="1.2" y2="0.46" layer="21"/>
+<rectangle x1="1.6" y1="0.42" x2="1.84" y2="0.46" layer="21"/>
+<rectangle x1="0.92" y1="0.38" x2="1.2" y2="0.42" layer="21"/>
+<rectangle x1="1.56" y1="0.38" x2="1.88" y2="0.42" layer="21"/>
+<rectangle x1="0.92" y1="0.34" x2="1.24" y2="0.38" layer="21"/>
+<rectangle x1="1.52" y1="0.34" x2="1.84" y2="0.38" layer="21"/>
+<rectangle x1="0.96" y1="0.3" x2="1.28" y2="0.34" layer="21"/>
+<rectangle x1="1.52" y1="0.3" x2="1.84" y2="0.34" layer="21"/>
+<rectangle x1="0.96" y1="0.26" x2="1.28" y2="0.3" layer="21"/>
+<rectangle x1="1.48" y1="0.26" x2="1.8" y2="0.3" layer="21"/>
+<rectangle x1="1" y1="0.22" x2="1.32" y2="0.26" layer="21"/>
+<rectangle x1="1.48" y1="0.22" x2="1.76" y2="0.26" layer="21"/>
+<rectangle x1="1.04" y1="0.18" x2="1.32" y2="0.22" layer="21"/>
+<rectangle x1="1.44" y1="0.18" x2="1.76" y2="0.22" layer="21"/>
+<rectangle x1="1.04" y1="0.14" x2="1.36" y2="0.18" layer="21"/>
+<rectangle x1="1.4" y1="0.14" x2="1.72" y2="0.18" layer="21"/>
+<rectangle x1="1.08" y1="0.1" x2="1.68" y2="0.14" layer="21"/>
+<rectangle x1="1.12" y1="0.06" x2="1.68" y2="0.1" layer="21"/>
+<rectangle x1="1.12" y1="0.02" x2="1.64" y2="0.06" layer="21"/>
+<rectangle x1="1.16" y1="-0.02" x2="1.6" y2="0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.06" x2="1.6" y2="-0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.1" x2="1.56" y2="-0.06" layer="21"/>
+<rectangle x1="1.24" y1="-0.14" x2="1.52" y2="-0.1" layer="21"/>
+<rectangle x1="1.24" y1="-0.18" x2="1.52" y2="-0.14" layer="21"/>
+<rectangle x1="1.24" y1="-0.22" x2="1.52" y2="-0.18" layer="21"/>
+<rectangle x1="1.24" y1="-0.26" x2="1.52" y2="-0.22" layer="21"/>
+<rectangle x1="1.24" y1="-0.3" x2="1.52" y2="-0.26" layer="21"/>
+<rectangle x1="1.24" y1="-0.34" x2="1.52" y2="-0.3" layer="21"/>
+<rectangle x1="1.24" y1="-0.38" x2="1.52" y2="-0.34" layer="21"/>
+<rectangle x1="1.24" y1="-0.42" x2="1.52" y2="-0.38" layer="21"/>
+<rectangle x1="1.24" y1="-0.46" x2="1.52" y2="-0.42" layer="21"/>
+<rectangle x1="1.24" y1="-0.5" x2="1.52" y2="-0.46" layer="21"/>
+<rectangle x1="1.28" y1="-0.54" x2="1.48" y2="-0.5" layer="21"/>
+</package>
+<package name="Z0">
+<rectangle x1="1.04" y1="0.5" x2="1.68" y2="0.54" layer="21"/>
+<rectangle x1="0.96" y1="0.46" x2="1.76" y2="0.5" layer="21"/>
+<rectangle x1="0.96" y1="0.42" x2="1.8" y2="0.46" layer="21"/>
+<rectangle x1="0.96" y1="0.38" x2="1.8" y2="0.42" layer="21"/>
+<rectangle x1="0.96" y1="0.34" x2="1.8" y2="0.38" layer="21"/>
+<rectangle x1="0.96" y1="0.3" x2="1.76" y2="0.34" layer="21"/>
+<rectangle x1="1" y1="0.26" x2="1.76" y2="0.3" layer="21"/>
+<rectangle x1="1.4" y1="0.22" x2="1.72" y2="0.26" layer="21"/>
+<rectangle x1="1.36" y1="0.18" x2="1.68" y2="0.22" layer="21"/>
+<rectangle x1="1.32" y1="0.14" x2="1.68" y2="0.18" layer="21"/>
+<rectangle x1="1.32" y1="0.1" x2="1.64" y2="0.14" layer="21"/>
+<rectangle x1="1.28" y1="0.06" x2="1.6" y2="0.1" layer="21"/>
+<rectangle x1="1.24" y1="0.02" x2="1.56" y2="0.06" layer="21"/>
+<rectangle x1="1.2" y1="-0.02" x2="1.56" y2="0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.06" x2="1.52" y2="-0.02" layer="21"/>
+<rectangle x1="1.16" y1="-0.1" x2="1.48" y2="-0.06" layer="21"/>
+<rectangle x1="1.12" y1="-0.14" x2="1.48" y2="-0.1" layer="21"/>
+<rectangle x1="1.12" y1="-0.18" x2="1.44" y2="-0.14" layer="21"/>
+<rectangle x1="1.08" y1="-0.22" x2="1.4" y2="-0.18" layer="21"/>
+<rectangle x1="1.04" y1="-0.26" x2="1.36" y2="-0.22" layer="21"/>
+<rectangle x1="1" y1="-0.3" x2="1.36" y2="-0.26" layer="21"/>
+<rectangle x1="1" y1="-0.34" x2="1.8" y2="-0.3" layer="21"/>
+<rectangle x1="0.96" y1="-0.38" x2="1.8" y2="-0.34" layer="21"/>
+<rectangle x1="0.96" y1="-0.42" x2="1.8" y2="-0.38" layer="21"/>
+<rectangle x1="0.96" y1="-0.46" x2="1.8" y2="-0.42" layer="21"/>
+<rectangle x1="0.96" y1="-0.5" x2="1.8" y2="-0.46" layer="21"/>
+<rectangle x1="1" y1="-0.54" x2="1.8" y2="-0.5" layer="21"/>
+</package>
+</packages>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -11897,7 +12034,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="U$25" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="32.004" y="33.274" smashed="yes" rot="MR0"/>
 <element name="U$19" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="22.86" y="22.86" smashed="yes" rot="MR0"/>
-<element name="U$20" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="6.35" y="11.43" smashed="yes"/>
+<element name="U$20" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="17.018" y="4.699" smashed="yes"/>
+<element name="U$32" library="Orientation" package="X1" value="" x="6.223" y="12.065" smashed="yes"/>
+<element name="U$50" library="Orientation" package="Y2" value="" x="10.16" y="15.494" smashed="yes"/>
+<element name="U$52" library="Orientation" package="Y2" value="" x="12.954" y="15.494" smashed="yes" rot="MR0"/>
+<element name="U$57" library="Orientation" package="Z0" value="" x="11.176" y="13.462" smashed="yes" rot="MR0"/>
+<element name="U$63" library="Orientation" package="Z0" value="" x="8.382" y="13.462" smashed="yes"/>
 </elements>
 <signals>
 <signal name="GND">

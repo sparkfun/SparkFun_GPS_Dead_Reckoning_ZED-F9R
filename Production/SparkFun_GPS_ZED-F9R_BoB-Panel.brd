@@ -163,6 +163,25 @@
 <dimension x1="2.54" y1="2.5146" x2="2.54" y2="0" x3="-3.81" y3="1.2573" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="34.29" y1="49.53" x2="43.18" y2="53.34" x3="38.735" y3="59.69" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <text x="42.037" y="8.636" size="1.27" layer="16" font="vector" ratio="15" rot="SMR270">v10</text>
+<wire x1="8.636" y1="10.795" x2="8.636" y2="14.605" width="0.254" layer="21"/>
+<wire x1="8.636" y1="14.605" x2="12.446" y2="14.605" width="0.254" layer="21"/>
+<wire x1="8.636" y1="10.795" x2="8.255" y2="11.176" width="0.254" layer="21"/>
+<wire x1="8.255" y1="11.176" x2="9.017" y2="11.176" width="0.254" layer="21"/>
+<wire x1="9.017" y1="11.176" x2="8.636" y2="10.795" width="0.254" layer="21"/>
+<wire x1="12.446" y1="14.605" x2="12.065" y2="14.986" width="0.254" layer="21"/>
+<wire x1="12.065" y1="14.986" x2="12.065" y2="14.224" width="0.254" layer="21"/>
+<wire x1="12.065" y1="14.224" x2="12.446" y2="14.605" width="0.254" layer="21"/>
+<circle x="8.636" y="14.605" radius="0.567959375" width="0.254" layer="21"/>
+<wire x1="8.636" y1="10.795" x2="8.636" y2="14.605" width="0.254" layer="22"/>
+<wire x1="8.636" y1="14.605" x2="12.446" y2="14.605" width="0.254" layer="22"/>
+<wire x1="8.636" y1="10.795" x2="9.017" y2="11.176" width="0.254" layer="22"/>
+<wire x1="9.017" y1="11.176" x2="8.255" y2="11.176" width="0.254" layer="22"/>
+<wire x1="8.255" y1="11.176" x2="8.636" y2="10.795" width="0.254" layer="22"/>
+<wire x1="12.446" y1="14.605" x2="12.065" y2="14.986" width="0.254" layer="22"/>
+<wire x1="12.065" y1="14.986" x2="12.065" y2="14.224" width="0.254" layer="22"/>
+<wire x1="12.065" y1="14.224" x2="12.446" y2="14.605" width="0.254" layer="22"/>
+<wire x1="8.2005875" y1="15.040409375" x2="9.0986125" y2="14.142384375" width="0.254" layer="22"/>
+<wire x1="9.046009375" y1="14.989609375" x2="8.147984375" y2="14.091584375" width="0.254" layer="22"/>
 <text x="21.59" y="-1.524" size="1.778" layer="20" ratio="15" align="center">Route Out</text>
 <wire x1="43.688" y1="0" x2="43.688" y2="50.8" width="0.254" layer="20"/>
 <wire x1="43.688" y1="50.8" x2="86.868" y2="50.8" width="0.254" layer="20"/>
@@ -178,6 +197,25 @@
 <dimension x1="46.228" y1="2.5146" x2="46.228" y2="0" x3="39.878" y3="1.2573" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="77.978" y1="49.53" x2="86.868" y2="53.34" x3="82.423" y3="59.69" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <text x="85.725" y="8.636" size="1.27" layer="16" font="vector" ratio="15" rot="SMR270">v10</text>
+<wire x1="52.324" y1="10.795" x2="52.324" y2="14.605" width="0.254" layer="21"/>
+<wire x1="52.324" y1="14.605" x2="56.134" y2="14.605" width="0.254" layer="21"/>
+<wire x1="52.324" y1="10.795" x2="51.943" y2="11.176" width="0.254" layer="21"/>
+<wire x1="51.943" y1="11.176" x2="52.705" y2="11.176" width="0.254" layer="21"/>
+<wire x1="52.705" y1="11.176" x2="52.324" y2="10.795" width="0.254" layer="21"/>
+<wire x1="56.134" y1="14.605" x2="55.753" y2="14.986" width="0.254" layer="21"/>
+<wire x1="55.753" y1="14.986" x2="55.753" y2="14.224" width="0.254" layer="21"/>
+<wire x1="55.753" y1="14.224" x2="56.134" y2="14.605" width="0.254" layer="21"/>
+<circle x="52.324" y="14.605" radius="0.567959375" width="0.254" layer="21"/>
+<wire x1="52.324" y1="10.795" x2="52.324" y2="14.605" width="0.254" layer="22"/>
+<wire x1="52.324" y1="14.605" x2="56.134" y2="14.605" width="0.254" layer="22"/>
+<wire x1="52.324" y1="10.795" x2="52.705" y2="11.176" width="0.254" layer="22"/>
+<wire x1="52.705" y1="11.176" x2="51.943" y2="11.176" width="0.254" layer="22"/>
+<wire x1="51.943" y1="11.176" x2="52.324" y2="10.795" width="0.254" layer="22"/>
+<wire x1="56.134" y1="14.605" x2="55.753" y2="14.986" width="0.254" layer="22"/>
+<wire x1="55.753" y1="14.986" x2="55.753" y2="14.224" width="0.254" layer="22"/>
+<wire x1="55.753" y1="14.224" x2="56.134" y2="14.605" width="0.254" layer="22"/>
+<wire x1="51.8885875" y1="15.040409375" x2="52.7866125" y2="14.142384375" width="0.254" layer="22"/>
+<wire x1="52.734009375" y1="14.989609375" x2="51.835984375" y2="14.091584375" width="0.254" layer="22"/>
 <text x="65.278" y="-1.524" size="1.778" layer="20" ratio="15" align="center">Route Out</text>
 <wire x1="0" y1="53.848" x2="0" y2="104.648" width="0.254" layer="20"/>
 <wire x1="0" y1="104.648" x2="43.18" y2="104.648" width="0.254" layer="20"/>
@@ -193,6 +231,25 @@
 <dimension x1="2.54" y1="56.3626" x2="2.54" y2="53.848" x3="-3.81" y3="55.1053" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="34.29" y1="103.378" x2="43.18" y2="107.188" x3="38.735" y3="113.538" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <text x="42.037" y="62.484" size="1.27" layer="16" font="vector" ratio="15" rot="SMR270">v10</text>
+<wire x1="8.636" y1="64.643" x2="8.636" y2="68.453" width="0.254" layer="21"/>
+<wire x1="8.636" y1="68.453" x2="12.446" y2="68.453" width="0.254" layer="21"/>
+<wire x1="8.636" y1="64.643" x2="8.255" y2="65.024" width="0.254" layer="21"/>
+<wire x1="8.255" y1="65.024" x2="9.017" y2="65.024" width="0.254" layer="21"/>
+<wire x1="9.017" y1="65.024" x2="8.636" y2="64.643" width="0.254" layer="21"/>
+<wire x1="12.446" y1="68.453" x2="12.065" y2="68.834" width="0.254" layer="21"/>
+<wire x1="12.065" y1="68.834" x2="12.065" y2="68.072" width="0.254" layer="21"/>
+<wire x1="12.065" y1="68.072" x2="12.446" y2="68.453" width="0.254" layer="21"/>
+<circle x="8.636" y="68.453" radius="0.567959375" width="0.254" layer="21"/>
+<wire x1="8.636" y1="64.643" x2="8.636" y2="68.453" width="0.254" layer="22"/>
+<wire x1="8.636" y1="68.453" x2="12.446" y2="68.453" width="0.254" layer="22"/>
+<wire x1="8.636" y1="64.643" x2="9.017" y2="65.024" width="0.254" layer="22"/>
+<wire x1="9.017" y1="65.024" x2="8.255" y2="65.024" width="0.254" layer="22"/>
+<wire x1="8.255" y1="65.024" x2="8.636" y2="64.643" width="0.254" layer="22"/>
+<wire x1="12.446" y1="68.453" x2="12.065" y2="68.834" width="0.254" layer="22"/>
+<wire x1="12.065" y1="68.834" x2="12.065" y2="68.072" width="0.254" layer="22"/>
+<wire x1="12.065" y1="68.072" x2="12.446" y2="68.453" width="0.254" layer="22"/>
+<wire x1="8.2005875" y1="68.888409375" x2="9.0986125" y2="67.990384375" width="0.254" layer="22"/>
+<wire x1="9.046009375" y1="68.837609375" x2="8.147984375" y2="67.939584375" width="0.254" layer="22"/>
 <text x="21.59" y="52.324" size="1.778" layer="20" ratio="15" align="center">Route Out</text>
 <text x="21.59" y="106.172" size="1.778" layer="20" ratio="15" align="center">Route Out</text>
 <wire x1="43.688" y1="53.848" x2="43.688" y2="104.648" width="0.254" layer="20"/>
@@ -209,6 +266,25 @@
 <dimension x1="46.228" y1="56.3626" x2="46.228" y2="53.848" x3="39.878" y3="55.1053" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="77.978" y1="103.378" x2="86.868" y2="107.188" x3="82.423" y3="113.538" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <text x="85.725" y="62.484" size="1.27" layer="16" font="vector" ratio="15" rot="SMR270">v10</text>
+<wire x1="52.324" y1="64.643" x2="52.324" y2="68.453" width="0.254" layer="21"/>
+<wire x1="52.324" y1="68.453" x2="56.134" y2="68.453" width="0.254" layer="21"/>
+<wire x1="52.324" y1="64.643" x2="51.943" y2="65.024" width="0.254" layer="21"/>
+<wire x1="51.943" y1="65.024" x2="52.705" y2="65.024" width="0.254" layer="21"/>
+<wire x1="52.705" y1="65.024" x2="52.324" y2="64.643" width="0.254" layer="21"/>
+<wire x1="56.134" y1="68.453" x2="55.753" y2="68.834" width="0.254" layer="21"/>
+<wire x1="55.753" y1="68.834" x2="55.753" y2="68.072" width="0.254" layer="21"/>
+<wire x1="55.753" y1="68.072" x2="56.134" y2="68.453" width="0.254" layer="21"/>
+<circle x="52.324" y="68.453" radius="0.567959375" width="0.254" layer="21"/>
+<wire x1="52.324" y1="64.643" x2="52.324" y2="68.453" width="0.254" layer="22"/>
+<wire x1="52.324" y1="68.453" x2="56.134" y2="68.453" width="0.254" layer="22"/>
+<wire x1="52.324" y1="64.643" x2="52.705" y2="65.024" width="0.254" layer="22"/>
+<wire x1="52.705" y1="65.024" x2="51.943" y2="65.024" width="0.254" layer="22"/>
+<wire x1="51.943" y1="65.024" x2="52.324" y2="64.643" width="0.254" layer="22"/>
+<wire x1="56.134" y1="68.453" x2="55.753" y2="68.834" width="0.254" layer="22"/>
+<wire x1="55.753" y1="68.834" x2="55.753" y2="68.072" width="0.254" layer="22"/>
+<wire x1="55.753" y1="68.072" x2="56.134" y2="68.453" width="0.254" layer="22"/>
+<wire x1="51.8885875" y1="68.888409375" x2="52.7866125" y2="67.990384375" width="0.254" layer="22"/>
+<wire x1="52.734009375" y1="68.837609375" x2="51.835984375" y2="67.939584375" width="0.254" layer="22"/>
 <text x="65.278" y="52.324" size="1.778" layer="20" ratio="15" align="center">Route Out</text>
 <text x="65.278" y="106.172" size="1.778" layer="20" ratio="15" align="center">Route Out</text>
 <wire x1="-0.254" y1="-9.398" x2="-0.254" y2="120.396" width="0.381" layer="46"/>
@@ -11382,6 +11458,124 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </package>
 </packages>
 </library>
+<library name="Orientation">
+<packages>
+<package name="X1">
+<rectangle x1="1" y1="0.5" x2="1.12" y2="0.54" layer="21"/>
+<rectangle x1="1.72" y1="0.5" x2="1.84" y2="0.54" layer="21"/>
+<rectangle x1="0.96" y1="0.46" x2="1.16" y2="0.5" layer="21"/>
+<rectangle x1="1.68" y1="0.46" x2="1.92" y2="0.5" layer="21"/>
+<rectangle x1="0.92" y1="0.42" x2="1.2" y2="0.46" layer="21"/>
+<rectangle x1="1.64" y1="0.42" x2="1.92" y2="0.46" layer="21"/>
+<rectangle x1="0.92" y1="0.38" x2="1.24" y2="0.42" layer="21"/>
+<rectangle x1="1.6" y1="0.38" x2="1.96" y2="0.42" layer="21"/>
+<rectangle x1="0.92" y1="0.34" x2="1.28" y2="0.38" layer="21"/>
+<rectangle x1="1.6" y1="0.34" x2="1.92" y2="0.38" layer="21"/>
+<rectangle x1="0.96" y1="0.3" x2="1.32" y2="0.34" layer="21"/>
+<rectangle x1="1.56" y1="0.3" x2="1.92" y2="0.34" layer="21"/>
+<rectangle x1="1" y1="0.26" x2="1.36" y2="0.3" layer="21"/>
+<rectangle x1="1.52" y1="0.26" x2="1.88" y2="0.3" layer="21"/>
+<rectangle x1="1.04" y1="0.22" x2="1.36" y2="0.26" layer="21"/>
+<rectangle x1="1.48" y1="0.22" x2="1.84" y2="0.26" layer="21"/>
+<rectangle x1="1.04" y1="0.18" x2="1.4" y2="0.22" layer="21"/>
+<rectangle x1="1.44" y1="0.18" x2="1.8" y2="0.22" layer="21"/>
+<rectangle x1="1.08" y1="0.14" x2="1.76" y2="0.18" layer="21"/>
+<rectangle x1="1.12" y1="0.1" x2="1.72" y2="0.14" layer="21"/>
+<rectangle x1="1.16" y1="0.06" x2="1.68" y2="0.1" layer="21"/>
+<rectangle x1="1.2" y1="0.02" x2="1.64" y2="0.06" layer="21"/>
+<rectangle x1="1.24" y1="-0.02" x2="1.6" y2="0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.06" x2="1.64" y2="-0.02" layer="21"/>
+<rectangle x1="1.16" y1="-0.1" x2="1.68" y2="-0.06" layer="21"/>
+<rectangle x1="1.16" y1="-0.14" x2="1.72" y2="-0.1" layer="21"/>
+<rectangle x1="1.12" y1="-0.18" x2="1.76" y2="-0.14" layer="21"/>
+<rectangle x1="1.08" y1="-0.22" x2="1.8" y2="-0.18" layer="21"/>
+<rectangle x1="1.04" y1="-0.26" x2="1.4" y2="-0.22" layer="21"/>
+<rectangle x1="1.48" y1="-0.26" x2="1.84" y2="-0.22" layer="21"/>
+<rectangle x1="1" y1="-0.3" x2="1.36" y2="-0.26" layer="21"/>
+<rectangle x1="1.52" y1="-0.3" x2="1.84" y2="-0.26" layer="21"/>
+<rectangle x1="0.96" y1="-0.34" x2="1.32" y2="-0.3" layer="21"/>
+<rectangle x1="1.52" y1="-0.34" x2="1.88" y2="-0.3" layer="21"/>
+<rectangle x1="0.92" y1="-0.38" x2="1.28" y2="-0.34" layer="21"/>
+<rectangle x1="1.56" y1="-0.38" x2="1.92" y2="-0.34" layer="21"/>
+<rectangle x1="0.92" y1="-0.42" x2="1.24" y2="-0.38" layer="21"/>
+<rectangle x1="1.6" y1="-0.42" x2="1.96" y2="-0.38" layer="21"/>
+<rectangle x1="0.92" y1="-0.46" x2="1.2" y2="-0.42" layer="21"/>
+<rectangle x1="1.64" y1="-0.46" x2="1.96" y2="-0.42" layer="21"/>
+<rectangle x1="0.92" y1="-0.5" x2="1.16" y2="-0.46" layer="21"/>
+<rectangle x1="1.68" y1="-0.5" x2="1.92" y2="-0.46" layer="21"/>
+<rectangle x1="1" y1="-0.54" x2="1.12" y2="-0.5" layer="21"/>
+<rectangle x1="1.72" y1="-0.54" x2="1.88" y2="-0.5" layer="21"/>
+</package>
+<package name="Y2">
+<rectangle x1="1.04" y1="0.5" x2="1.12" y2="0.54" layer="21"/>
+<rectangle x1="1.64" y1="0.5" x2="1.76" y2="0.54" layer="21"/>
+<rectangle x1="0.96" y1="0.46" x2="1.16" y2="0.5" layer="21"/>
+<rectangle x1="1.6" y1="0.46" x2="1.8" y2="0.5" layer="21"/>
+<rectangle x1="0.92" y1="0.42" x2="1.2" y2="0.46" layer="21"/>
+<rectangle x1="1.6" y1="0.42" x2="1.84" y2="0.46" layer="21"/>
+<rectangle x1="0.92" y1="0.38" x2="1.2" y2="0.42" layer="21"/>
+<rectangle x1="1.56" y1="0.38" x2="1.88" y2="0.42" layer="21"/>
+<rectangle x1="0.92" y1="0.34" x2="1.24" y2="0.38" layer="21"/>
+<rectangle x1="1.52" y1="0.34" x2="1.84" y2="0.38" layer="21"/>
+<rectangle x1="0.96" y1="0.3" x2="1.28" y2="0.34" layer="21"/>
+<rectangle x1="1.52" y1="0.3" x2="1.84" y2="0.34" layer="21"/>
+<rectangle x1="0.96" y1="0.26" x2="1.28" y2="0.3" layer="21"/>
+<rectangle x1="1.48" y1="0.26" x2="1.8" y2="0.3" layer="21"/>
+<rectangle x1="1" y1="0.22" x2="1.32" y2="0.26" layer="21"/>
+<rectangle x1="1.48" y1="0.22" x2="1.76" y2="0.26" layer="21"/>
+<rectangle x1="1.04" y1="0.18" x2="1.32" y2="0.22" layer="21"/>
+<rectangle x1="1.44" y1="0.18" x2="1.76" y2="0.22" layer="21"/>
+<rectangle x1="1.04" y1="0.14" x2="1.36" y2="0.18" layer="21"/>
+<rectangle x1="1.4" y1="0.14" x2="1.72" y2="0.18" layer="21"/>
+<rectangle x1="1.08" y1="0.1" x2="1.68" y2="0.14" layer="21"/>
+<rectangle x1="1.12" y1="0.06" x2="1.68" y2="0.1" layer="21"/>
+<rectangle x1="1.12" y1="0.02" x2="1.64" y2="0.06" layer="21"/>
+<rectangle x1="1.16" y1="-0.02" x2="1.6" y2="0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.06" x2="1.6" y2="-0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.1" x2="1.56" y2="-0.06" layer="21"/>
+<rectangle x1="1.24" y1="-0.14" x2="1.52" y2="-0.1" layer="21"/>
+<rectangle x1="1.24" y1="-0.18" x2="1.52" y2="-0.14" layer="21"/>
+<rectangle x1="1.24" y1="-0.22" x2="1.52" y2="-0.18" layer="21"/>
+<rectangle x1="1.24" y1="-0.26" x2="1.52" y2="-0.22" layer="21"/>
+<rectangle x1="1.24" y1="-0.3" x2="1.52" y2="-0.26" layer="21"/>
+<rectangle x1="1.24" y1="-0.34" x2="1.52" y2="-0.3" layer="21"/>
+<rectangle x1="1.24" y1="-0.38" x2="1.52" y2="-0.34" layer="21"/>
+<rectangle x1="1.24" y1="-0.42" x2="1.52" y2="-0.38" layer="21"/>
+<rectangle x1="1.24" y1="-0.46" x2="1.52" y2="-0.42" layer="21"/>
+<rectangle x1="1.24" y1="-0.5" x2="1.52" y2="-0.46" layer="21"/>
+<rectangle x1="1.28" y1="-0.54" x2="1.48" y2="-0.5" layer="21"/>
+</package>
+<package name="Z0">
+<rectangle x1="1.04" y1="0.5" x2="1.68" y2="0.54" layer="21"/>
+<rectangle x1="0.96" y1="0.46" x2="1.76" y2="0.5" layer="21"/>
+<rectangle x1="0.96" y1="0.42" x2="1.8" y2="0.46" layer="21"/>
+<rectangle x1="0.96" y1="0.38" x2="1.8" y2="0.42" layer="21"/>
+<rectangle x1="0.96" y1="0.34" x2="1.8" y2="0.38" layer="21"/>
+<rectangle x1="0.96" y1="0.3" x2="1.76" y2="0.34" layer="21"/>
+<rectangle x1="1" y1="0.26" x2="1.76" y2="0.3" layer="21"/>
+<rectangle x1="1.4" y1="0.22" x2="1.72" y2="0.26" layer="21"/>
+<rectangle x1="1.36" y1="0.18" x2="1.68" y2="0.22" layer="21"/>
+<rectangle x1="1.32" y1="0.14" x2="1.68" y2="0.18" layer="21"/>
+<rectangle x1="1.32" y1="0.1" x2="1.64" y2="0.14" layer="21"/>
+<rectangle x1="1.28" y1="0.06" x2="1.6" y2="0.1" layer="21"/>
+<rectangle x1="1.24" y1="0.02" x2="1.56" y2="0.06" layer="21"/>
+<rectangle x1="1.2" y1="-0.02" x2="1.56" y2="0.02" layer="21"/>
+<rectangle x1="1.2" y1="-0.06" x2="1.52" y2="-0.02" layer="21"/>
+<rectangle x1="1.16" y1="-0.1" x2="1.48" y2="-0.06" layer="21"/>
+<rectangle x1="1.12" y1="-0.14" x2="1.48" y2="-0.1" layer="21"/>
+<rectangle x1="1.12" y1="-0.18" x2="1.44" y2="-0.14" layer="21"/>
+<rectangle x1="1.08" y1="-0.22" x2="1.4" y2="-0.18" layer="21"/>
+<rectangle x1="1.04" y1="-0.26" x2="1.36" y2="-0.22" layer="21"/>
+<rectangle x1="1" y1="-0.3" x2="1.36" y2="-0.26" layer="21"/>
+<rectangle x1="1" y1="-0.34" x2="1.8" y2="-0.3" layer="21"/>
+<rectangle x1="0.96" y1="-0.38" x2="1.8" y2="-0.34" layer="21"/>
+<rectangle x1="0.96" y1="-0.42" x2="1.8" y2="-0.38" layer="21"/>
+<rectangle x1="0.96" y1="-0.46" x2="1.8" y2="-0.42" layer="21"/>
+<rectangle x1="0.96" y1="-0.5" x2="1.8" y2="-0.46" layer="21"/>
+<rectangle x1="1" y1="-0.54" x2="1.8" y2="-0.5" layer="21"/>
+</package>
+</packages>
+</library>
 <library name="SparkFun-Retired">
 <description>&lt;h3&gt;SparkFun Electronics' Retired foot prints&lt;/h3&gt;
 In this library you'll find all manner of retired footprints for resistors, capacitors, board names, ICs, etc., that are &lt;b&gt; no longer used&lt;/b&gt; in our catalog.
@@ -11979,7 +12173,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="U$25" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="32.004" y="33.274" smashed="yes" rot="MR0"/>
 <element name="U$19" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="22.86" y="22.86" smashed="yes" rot="MR0"/>
-<element name="U$20" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="6.35" y="11.43" smashed="yes"/>
+<element name="U$20" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="17.018" y="4.699" smashed="yes"/>
+<element name="U$32" library="Orientation" package="X1" value="" x="6.223" y="12.065" smashed="yes"/>
+<element name="U$50" library="Orientation" package="Y2" value="" x="10.16" y="15.494" smashed="yes"/>
+<element name="U$52" library="Orientation" package="Y2" value="" x="12.954" y="15.494" smashed="yes" rot="MR0"/>
+<element name="U$57" library="Orientation" package="Z0" value="" x="11.176" y="13.462" smashed="yes" rot="MR0"/>
+<element name="U$63" library="Orientation" package="Z0" value="" x="8.382" y="13.462" smashed="yes"/>
 <element name="J8" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="48.768" y="41.91" smashed="yes" rot="R270">
 <attribute name="NAME" x="46.609" y="43.307" size="0.6096" layer="25" font="vector" ratio="20" rot="R270"/>
 <attribute name="PROD_ID" value="CONN-13694" x="48.768" y="41.91" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -12172,44 +12371,44 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="RES-13495" x="64.6684" y="40.5384" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="63.3984" y="37.4904" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$32" library="Labels" package="CS#-&lt;]-04" value="" x="81.788" y="29.21" smashed="yes"/>
-<element name="U$50" library="ALL labels" package="PPS8" value="" x="70.358" y="3.81" smashed="yes"/>
-<element name="U$52" library="ALL labels" package="PWR10" value="" x="65.913" y="3.81" smashed="yes"/>
-<element name="U$57" library="ALL labels" package="RTK9" value="" x="77.978" y="3.81" smashed="yes"/>
-<element name="U$63" library="TXR" package="BLK2" value="" x="78.486" y="49.53" smashed="yes"/>
-<element name="U$72" library="TXR" package="GRN1" value="" x="61.087" y="49.657" smashed="yes"/>
-<element name="U$73" library="Labels" package="3V3-04" value="" x="49.9618" y="34.2646" smashed="yes" rot="MR0"/>
-<element name="U$74" library="Labels" package="GND-04" value="" x="50.165" y="36.8046" smashed="yes" rot="MR0"/>
-<element name="U$75" library="Labels" package="3V3-04" value="" x="85.344" y="31.75" smashed="yes" rot="MR0"/>
-<element name="U$76" library="Labels" package="GND-04" value="" x="85.217" y="36.8046" smashed="yes" rot="MR0"/>
-<element name="U$77" library="Labels" package="5V" value="" x="85.344" y="34.29" smashed="yes" rot="MR0"/>
-<element name="U$78" library="Labels" package="GND-04" value="" x="77.978" y="44.323" smashed="yes" rot="MR90"/>
-<element name="U$79" library="ALL_LABELS" package="RXI28" value="" x="70.358" y="44.323" smashed="yes" rot="MR90"/>
-<element name="U$80" library="moar" package="TXO21" value="" x="67.818" y="43.434" smashed="yes" rot="MR90"/>
-<element name="U$81" library="more_all_labels" package="SPI4" value="" x="55.118" y="25.019" smashed="yes" rot="MR90"/>
-<element name="U$82" library="Labels" package="I_SUPER2_C-()-04" value="" x="55.319290625" y="30.1353" smashed="yes" rot="MR90"/>
-<element name="U$83" library="ALL labels" package="RTK9" value="" x="81.407" y="3.429" smashed="yes" rot="MR0"/>
-<element name="U$84" library="ALL labels" package="PPS8" value="" x="73.787" y="3.429" smashed="yes" rot="MR0"/>
-<element name="U$85" library="ALL labels" package="PWR10" value="" x="70.104" y="3.429" smashed="yes" rot="MR0"/>
-<element name="U$86" library="ant" package="ANT0" value="" x="58.547" y="8.636" smashed="yes"/>
+<element name="U$72" library="Labels" package="CS#-&lt;]-04" value="" x="81.788" y="29.21" smashed="yes"/>
+<element name="U$73" library="ALL labels" package="PPS8" value="" x="70.358" y="3.81" smashed="yes"/>
+<element name="U$74" library="ALL labels" package="PWR10" value="" x="65.913" y="3.81" smashed="yes"/>
+<element name="U$75" library="ALL labels" package="RTK9" value="" x="77.978" y="3.81" smashed="yes"/>
+<element name="U$76" library="TXR" package="BLK2" value="" x="78.486" y="49.53" smashed="yes"/>
+<element name="U$77" library="TXR" package="GRN1" value="" x="61.087" y="49.657" smashed="yes"/>
+<element name="U$78" library="Labels" package="3V3-04" value="" x="49.9618" y="34.2646" smashed="yes" rot="MR0"/>
+<element name="U$79" library="Labels" package="GND-04" value="" x="50.165" y="36.8046" smashed="yes" rot="MR0"/>
+<element name="U$80" library="Labels" package="3V3-04" value="" x="85.344" y="31.75" smashed="yes" rot="MR0"/>
+<element name="U$81" library="Labels" package="GND-04" value="" x="85.217" y="36.8046" smashed="yes" rot="MR0"/>
+<element name="U$82" library="Labels" package="5V" value="" x="85.344" y="34.29" smashed="yes" rot="MR0"/>
+<element name="U$83" library="Labels" package="GND-04" value="" x="77.978" y="44.323" smashed="yes" rot="MR90"/>
+<element name="U$84" library="ALL_LABELS" package="RXI28" value="" x="70.358" y="44.323" smashed="yes" rot="MR90"/>
+<element name="U$85" library="moar" package="TXO21" value="" x="67.818" y="43.434" smashed="yes" rot="MR90"/>
+<element name="U$86" library="more_all_labels" package="SPI4" value="" x="55.118" y="25.019" smashed="yes" rot="MR90"/>
+<element name="U$87" library="Labels" package="I_SUPER2_C-()-04" value="" x="55.319290625" y="30.1353" smashed="yes" rot="MR90"/>
+<element name="U$88" library="ALL labels" package="RTK9" value="" x="81.407" y="3.429" smashed="yes" rot="MR0"/>
+<element name="U$89" library="ALL labels" package="PPS8" value="" x="73.787" y="3.429" smashed="yes" rot="MR0"/>
+<element name="U$90" library="ALL labels" package="PWR10" value="" x="70.104" y="3.429" smashed="yes" rot="MR0"/>
+<element name="U$91" library="ant" package="ANT0" value="" x="58.547" y="8.636" smashed="yes"/>
 <element name="LOGO4" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.2" value="SFE_LOGO_NAME_FLAME.2_INCH" x="65.278" y="36.83" smashed="yes" rot="MR0"/>
 <element name="LOGO5" library="SparkFun-Aesthetics" package="QWIIC_4MM" value="QWIIC_LOGO_4MM" x="79.756" y="41.91" smashed="yes" rot="R270"/>
 <element name="LOGO6" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="52.705" y="2.921" smashed="yes"/>
-<element name="U$87" library="zed" package="ZED#F9R0" value="" x="74.676" y="30.353" smashed="yes" rot="MR0"/>
-<element name="U$88" library="TXR" package="GRN1" value="" x="64.77" y="49.657" smashed="yes" rot="MR0"/>
-<element name="U$89" library="TXR" package="BLK2" value="" x="81.788" y="49.53" smashed="yes" rot="MR0"/>
-<element name="U$90" library="bottom labels" package="INT2" value="" x="49.53" y="19.05" smashed="yes" rot="MR0"/>
-<element name="U$91" library="bottom labels" package="PPS1" value="" x="49.784" y="16.51" smashed="yes" rot="MR0"/>
-<element name="U$92" library="Labels" package="CS#-[&gt;-04" value="" x="85.471" y="29.21" smashed="yes" rot="MR0"/>
-<element name="U$93" library="corrected_bottom" package="RXI#MOSI0" value="" x="85.344" y="26.67" smashed="yes" rot="MR0"/>
-<element name="U$94" library="corrected_bottom" package="TXO#MISO1" value="" x="85.344" y="24.13" smashed="yes" rot="MR0"/>
-<element name="U$95" library="corrected_bottom" package="SCL#CLK2" value="" x="85.344" y="21.59" smashed="yes" rot="MR0"/>
-<element name="U$96" library="corrected_bottom" package="SCL5" value="" x="49.7586" y="29.1846" smashed="yes" rot="MR0"/>
-<element name="U$97" library="corrected_bottom" package="SDA4" value="" x="49.9872" y="31.6992" smashed="yes" rot="MR0"/>
-<element name="U$98" library="corrected_bottom" package="TXR3" value="" x="50.1142" y="26.5684" smashed="yes" rot="MR0"/>
-<element name="U$99" library="corrected_safe_reset" package="#RESET1" value="" x="45.212" y="24.13" smashed="yes"/>
-<element name="U$100" library="corrected_safe_reset" package="#RESET2" value="" x="51.181" y="24.13" smashed="yes" rot="MR0"/>
-<element name="U$101" library="corrected_safe_reset" package="#SAFEBOOT3" value="" x="53.721" y="21.59" smashed="yes" rot="MR0"/>
+<element name="U$92" library="zed" package="ZED#F9R0" value="" x="74.676" y="30.353" smashed="yes" rot="MR0"/>
+<element name="U$93" library="TXR" package="GRN1" value="" x="64.77" y="49.657" smashed="yes" rot="MR0"/>
+<element name="U$94" library="TXR" package="BLK2" value="" x="81.788" y="49.53" smashed="yes" rot="MR0"/>
+<element name="U$95" library="bottom labels" package="INT2" value="" x="49.53" y="19.05" smashed="yes" rot="MR0"/>
+<element name="U$96" library="bottom labels" package="PPS1" value="" x="49.784" y="16.51" smashed="yes" rot="MR0"/>
+<element name="U$97" library="Labels" package="CS#-[&gt;-04" value="" x="85.471" y="29.21" smashed="yes" rot="MR0"/>
+<element name="U$98" library="corrected_bottom" package="RXI#MOSI0" value="" x="85.344" y="26.67" smashed="yes" rot="MR0"/>
+<element name="U$99" library="corrected_bottom" package="TXO#MISO1" value="" x="85.344" y="24.13" smashed="yes" rot="MR0"/>
+<element name="U$100" library="corrected_bottom" package="SCL#CLK2" value="" x="85.344" y="21.59" smashed="yes" rot="MR0"/>
+<element name="U$101" library="corrected_bottom" package="SCL5" value="" x="49.7586" y="29.1846" smashed="yes" rot="MR0"/>
+<element name="U$102" library="corrected_bottom" package="SDA4" value="" x="49.9872" y="31.6992" smashed="yes" rot="MR0"/>
+<element name="U$103" library="corrected_bottom" package="TXR3" value="" x="50.1142" y="26.5684" smashed="yes" rot="MR0"/>
+<element name="U$104" library="corrected_safe_reset" package="#RESET1" value="" x="45.212" y="24.13" smashed="yes"/>
+<element name="U$105" library="corrected_safe_reset" package="#RESET2" value="" x="51.181" y="24.13" smashed="yes" rot="MR0"/>
+<element name="U$106" library="corrected_safe_reset" package="#SAFEBOOT3" value="" x="53.721" y="21.59" smashed="yes" rot="MR0"/>
 <element name="R37" library="SparkFun-Resistors" package="0603" value="33" x="53.0547" y="18.415" smashed="yes" rot="R180">
 <attribute name="NAME" x="53.0547" y="17.653" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-08270" x="53.0547" y="18.415" size="1.778" layer="27" rot="R180" display="off"/>
@@ -12229,9 +12428,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="64.389" y="7.62" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="75.819" y="1.905" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$102" library="wat-for-reals" package="#SFBT0" value="" x="45.085" y="21.59" smashed="yes"/>
-<element name="U$103" library="wat-for-reals" package="GEO1" value="" x="74.041" y="3.81" smashed="yes"/>
-<element name="U$104" library="wat-for-reals" package="GEO1" value="" x="77.724" y="3.429" smashed="yes" rot="MR0"/>
+<element name="U$107" library="wat-for-reals" package="#SFBT0" value="" x="45.085" y="21.59" smashed="yes"/>
+<element name="U$108" library="wat-for-reals" package="GEO1" value="" x="74.041" y="3.81" smashed="yes"/>
+<element name="U$109" library="wat-for-reals" package="GEO1" value="" x="77.724" y="3.429" smashed="yes" rot="MR0"/>
 <element name="FB2" library="SparkFun-Coils" package="0402_MURATA" value="120NH" x="61.214" y="15.621" smashed="yes">
 <attribute name="NAME" x="61.214" y="16.383" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="NDUC-15072" x="61.214" y="15.621" size="1.778" layer="27" display="off"/>
@@ -12317,36 +12516,36 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CAP-14993" x="41.0652" y="40.8048" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 <attribute name="VALUE" x="65.3032" y="10.8048" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="U$105" library="wt_dir" package="D#0" value="" x="81.788" y="18.923" smashed="yes" rot="MR180"/>
-<element name="U$106" library="wt_dir" package="D#1" value="" x="81.915" y="16.51" smashed="yes" rot="MR180"/>
-<element name="U$107" library="wt_dir" package="W#2" value="" x="81.407" y="11.43" smashed="yes" rot="MR180"/>
-<element name="U$108" library="wt_dir" package="W#3" value="" x="81.534" y="13.97" smashed="yes" rot="MR180"/>
+<element name="U$110" library="wt_dir" package="D#0" value="" x="81.788" y="18.923" smashed="yes" rot="MR180"/>
+<element name="U$111" library="wt_dir" package="D#1" value="" x="81.915" y="16.51" smashed="yes" rot="MR180"/>
+<element name="U$112" library="wt_dir" package="W#2" value="" x="81.407" y="11.43" smashed="yes" rot="MR180"/>
+<element name="U$113" library="wt_dir" package="W#3" value="" x="81.534" y="13.97" smashed="yes" rot="MR180"/>
 <element name="C20" library="SparkFun-Capacitors" package="0603" value="1.0uF" x="63.4746" y="34.7726" smashed="yes">
 <attribute name="NAME" x="63.4746" y="35.5346" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13930" x="63.4746" y="34.7726" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="63.4746" y="34.0106" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$109" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="64.008" y="43.18" smashed="yes"/>
-<element name="U$110" library="Labels" package="SCL-[)" value="" x="45.339" y="29.1846" smashed="yes"/>
-<element name="U$111" library="Labels" package="SDA-[)" value="" x="45.339" y="31.75" smashed="yes"/>
-<element name="U$112" library="Labels" package="3V3-04" value="" x="45.339" y="34.29" smashed="yes"/>
-<element name="U$113" library="Labels" package="GND-04" value="" x="45.339" y="36.8046" smashed="yes"/>
-<element name="U$114" library="Labels" package="3V3-04" value="" x="80.6704" y="31.75" smashed="yes"/>
-<element name="U$115" library="Labels" package="GND-04" value="" x="80.391" y="36.8046" smashed="yes"/>
-<element name="U$116" library="Labels" package="MISO-(]-04" value="" x="80.01" y="24.1046" smashed="yes"/>
-<element name="U$117" library="Labels" package="MOSI-(]-04" value="" x="79.9338" y="26.6954" smashed="yes"/>
-<element name="U$118" library="wt_dir" package="D#0" value="" x="81.788" y="18.9484" smashed="yes"/>
-<element name="U$119" library="wt_dir" package="D#1" value="" x="81.8896" y="16.51" smashed="yes"/>
-<element name="U$120" library="wt_dir" package="W#2" value="" x="81.407" y="11.4554" smashed="yes"/>
-<element name="U$121" library="wt_dir" package="W#3" value="" x="81.5086" y="13.97" smashed="yes"/>
-<element name="U$122" library="Labels" package="5V" value="" x="81.6356" y="34.29" smashed="yes"/>
-<element name="U$123" library="ALL_LABELS" package="INT1" value="" x="45.2628" y="19.05" smashed="yes"/>
-<element name="U$124" library="ALL_LABELS" package="PPS4" value="" x="45.3644" y="16.4592" smashed="yes"/>
-<element name="U$125" library="Labels" package="GND-04" value="" x="77.978" y="44.323" smashed="yes" rot="R90"/>
-<element name="U$126" library="moar" package="TXO21" value="" x="67.7926" y="43.434" smashed="yes" rot="R90"/>
-<element name="U$127" library="txr_rxi" package="RXI22" value="" x="70.3072" y="44.2722" smashed="yes" rot="R90"/>
-<element name="U$128" library="txr_rxi" package="SCLK1" value="" x="80.0354" y="21.59" smashed="yes"/>
-<element name="U$129" library="txr_rxi" package="TXR0" value="" x="45.2628" y="26.5684" smashed="yes"/>
+<element name="U$114" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="64.008" y="43.18" smashed="yes"/>
+<element name="U$115" library="Labels" package="SCL-[)" value="" x="45.339" y="29.1846" smashed="yes"/>
+<element name="U$116" library="Labels" package="SDA-[)" value="" x="45.339" y="31.75" smashed="yes"/>
+<element name="U$117" library="Labels" package="3V3-04" value="" x="45.339" y="34.29" smashed="yes"/>
+<element name="U$118" library="Labels" package="GND-04" value="" x="45.339" y="36.8046" smashed="yes"/>
+<element name="U$119" library="Labels" package="3V3-04" value="" x="80.6704" y="31.75" smashed="yes"/>
+<element name="U$120" library="Labels" package="GND-04" value="" x="80.391" y="36.8046" smashed="yes"/>
+<element name="U$121" library="Labels" package="MISO-(]-04" value="" x="80.01" y="24.1046" smashed="yes"/>
+<element name="U$122" library="Labels" package="MOSI-(]-04" value="" x="79.9338" y="26.6954" smashed="yes"/>
+<element name="U$123" library="wt_dir" package="D#0" value="" x="81.788" y="18.9484" smashed="yes"/>
+<element name="U$124" library="wt_dir" package="D#1" value="" x="81.8896" y="16.51" smashed="yes"/>
+<element name="U$125" library="wt_dir" package="W#2" value="" x="81.407" y="11.4554" smashed="yes"/>
+<element name="U$126" library="wt_dir" package="W#3" value="" x="81.5086" y="13.97" smashed="yes"/>
+<element name="U$127" library="Labels" package="5V" value="" x="81.6356" y="34.29" smashed="yes"/>
+<element name="U$128" library="ALL_LABELS" package="INT1" value="" x="45.2628" y="19.05" smashed="yes"/>
+<element name="U$129" library="ALL_LABELS" package="PPS4" value="" x="45.3644" y="16.4592" smashed="yes"/>
+<element name="U$130" library="Labels" package="GND-04" value="" x="77.978" y="44.323" smashed="yes" rot="R90"/>
+<element name="U$131" library="moar" package="TXO21" value="" x="67.7926" y="43.434" smashed="yes" rot="R90"/>
+<element name="U$132" library="txr_rxi" package="RXI22" value="" x="70.3072" y="44.2722" smashed="yes" rot="R90"/>
+<element name="U$133" library="txr_rxi" package="SCLK1" value="" x="80.0354" y="21.59" smashed="yes"/>
+<element name="U$134" library="txr_rxi" package="TXR0" value="" x="45.2628" y="26.5684" smashed="yes"/>
 <element name="R45" library="SparkFun-Resistors" package="1206_RA" value="33" x="52.451" y="28.702" smashed="yes" rot="R270">
 <attribute name="PROD_ID" value="RES-15081" x="52.451" y="28.702" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -12359,9 +12558,14 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="R48" library="SparkFun-Resistors" package="1206_RA" value="33" x="79.121" y="22.225" smashed="yes" rot="R270">
 <attribute name="PROD_ID" value="RES-15081" x="79.121" y="22.225" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U$130" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="75.692" y="33.274" smashed="yes" rot="MR0"/>
-<element name="U$131" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="66.548" y="22.86" smashed="yes" rot="MR0"/>
-<element name="U$132" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="50.038" y="11.43" smashed="yes"/>
+<element name="U$135" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="75.692" y="33.274" smashed="yes" rot="MR0"/>
+<element name="U$136" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="66.548" y="22.86" smashed="yes" rot="MR0"/>
+<element name="U$137" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="60.706" y="4.699" smashed="yes"/>
+<element name="U$138" library="Orientation" package="X1" value="" x="49.911" y="12.065" smashed="yes"/>
+<element name="U$139" library="Orientation" package="Y2" value="" x="53.848" y="15.494" smashed="yes"/>
+<element name="U$140" library="Orientation" package="Y2" value="" x="56.642" y="15.494" smashed="yes" rot="MR0"/>
+<element name="U$141" library="Orientation" package="Z0" value="" x="54.864" y="13.462" smashed="yes" rot="MR0"/>
+<element name="U$142" library="Orientation" package="Z0" value="" x="52.07" y="13.462" smashed="yes"/>
 <element name="J15" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="5.08" y="95.758" smashed="yes" rot="R270">
 <attribute name="NAME" x="2.921" y="97.155" size="0.6096" layer="25" font="vector" ratio="20" rot="R270"/>
 <attribute name="PROD_ID" value="CONN-13694" x="5.08" y="95.758" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -12554,44 +12758,44 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="RES-13495" x="20.9804" y="94.3864" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="19.7104" y="91.3384" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$133" library="Labels" package="CS#-&lt;]-04" value="" x="38.1" y="83.058" smashed="yes"/>
-<element name="U$134" library="ALL labels" package="PPS8" value="" x="26.67" y="57.658" smashed="yes"/>
-<element name="U$135" library="ALL labels" package="PWR10" value="" x="22.225" y="57.658" smashed="yes"/>
-<element name="U$136" library="ALL labels" package="RTK9" value="" x="34.29" y="57.658" smashed="yes"/>
-<element name="U$137" library="TXR" package="BLK2" value="" x="34.798" y="103.378" smashed="yes"/>
-<element name="U$138" library="TXR" package="GRN1" value="" x="17.399" y="103.505" smashed="yes"/>
-<element name="U$139" library="Labels" package="3V3-04" value="" x="6.2738" y="88.1126" smashed="yes" rot="MR0"/>
-<element name="U$140" library="Labels" package="GND-04" value="" x="6.477" y="90.6526" smashed="yes" rot="MR0"/>
-<element name="U$141" library="Labels" package="3V3-04" value="" x="41.656" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$142" library="Labels" package="GND-04" value="" x="41.529" y="90.6526" smashed="yes" rot="MR0"/>
-<element name="U$143" library="Labels" package="5V" value="" x="41.656" y="88.138" smashed="yes" rot="MR0"/>
-<element name="U$144" library="Labels" package="GND-04" value="" x="34.29" y="98.171" smashed="yes" rot="MR90"/>
-<element name="U$145" library="ALL_LABELS" package="RXI28" value="" x="26.67" y="98.171" smashed="yes" rot="MR90"/>
-<element name="U$146" library="moar" package="TXO21" value="" x="24.13" y="97.282" smashed="yes" rot="MR90"/>
-<element name="U$147" library="more_all_labels" package="SPI4" value="" x="11.43" y="78.867" smashed="yes" rot="MR90"/>
-<element name="U$148" library="Labels" package="I_SUPER2_C-()-04" value="" x="11.631290625" y="83.9833" smashed="yes" rot="MR90"/>
-<element name="U$149" library="ALL labels" package="RTK9" value="" x="37.719" y="57.277" smashed="yes" rot="MR0"/>
-<element name="U$150" library="ALL labels" package="PPS8" value="" x="30.099" y="57.277" smashed="yes" rot="MR0"/>
-<element name="U$151" library="ALL labels" package="PWR10" value="" x="26.416" y="57.277" smashed="yes" rot="MR0"/>
-<element name="U$152" library="ant" package="ANT0" value="" x="14.859" y="62.484" smashed="yes"/>
+<element name="U$143" library="Labels" package="CS#-&lt;]-04" value="" x="38.1" y="83.058" smashed="yes"/>
+<element name="U$144" library="ALL labels" package="PPS8" value="" x="26.67" y="57.658" smashed="yes"/>
+<element name="U$145" library="ALL labels" package="PWR10" value="" x="22.225" y="57.658" smashed="yes"/>
+<element name="U$146" library="ALL labels" package="RTK9" value="" x="34.29" y="57.658" smashed="yes"/>
+<element name="U$147" library="TXR" package="BLK2" value="" x="34.798" y="103.378" smashed="yes"/>
+<element name="U$148" library="TXR" package="GRN1" value="" x="17.399" y="103.505" smashed="yes"/>
+<element name="U$149" library="Labels" package="3V3-04" value="" x="6.2738" y="88.1126" smashed="yes" rot="MR0"/>
+<element name="U$150" library="Labels" package="GND-04" value="" x="6.477" y="90.6526" smashed="yes" rot="MR0"/>
+<element name="U$151" library="Labels" package="3V3-04" value="" x="41.656" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$152" library="Labels" package="GND-04" value="" x="41.529" y="90.6526" smashed="yes" rot="MR0"/>
+<element name="U$153" library="Labels" package="5V" value="" x="41.656" y="88.138" smashed="yes" rot="MR0"/>
+<element name="U$154" library="Labels" package="GND-04" value="" x="34.29" y="98.171" smashed="yes" rot="MR90"/>
+<element name="U$155" library="ALL_LABELS" package="RXI28" value="" x="26.67" y="98.171" smashed="yes" rot="MR90"/>
+<element name="U$156" library="moar" package="TXO21" value="" x="24.13" y="97.282" smashed="yes" rot="MR90"/>
+<element name="U$157" library="more_all_labels" package="SPI4" value="" x="11.43" y="78.867" smashed="yes" rot="MR90"/>
+<element name="U$158" library="Labels" package="I_SUPER2_C-()-04" value="" x="11.631290625" y="83.9833" smashed="yes" rot="MR90"/>
+<element name="U$159" library="ALL labels" package="RTK9" value="" x="37.719" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$160" library="ALL labels" package="PPS8" value="" x="30.099" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$161" library="ALL labels" package="PWR10" value="" x="26.416" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$162" library="ant" package="ANT0" value="" x="14.859" y="62.484" smashed="yes"/>
 <element name="LOGO7" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.2" value="SFE_LOGO_NAME_FLAME.2_INCH" x="21.59" y="90.678" smashed="yes" rot="MR0"/>
 <element name="LOGO8" library="SparkFun-Aesthetics" package="QWIIC_4MM" value="QWIIC_LOGO_4MM" x="36.068" y="95.758" smashed="yes" rot="R270"/>
 <element name="LOGO9" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="9.017" y="56.769" smashed="yes"/>
-<element name="U$153" library="zed" package="ZED#F9R0" value="" x="30.988" y="84.201" smashed="yes" rot="MR0"/>
-<element name="U$154" library="TXR" package="GRN1" value="" x="21.082" y="103.505" smashed="yes" rot="MR0"/>
-<element name="U$155" library="TXR" package="BLK2" value="" x="38.1" y="103.378" smashed="yes" rot="MR0"/>
-<element name="U$156" library="bottom labels" package="INT2" value="" x="5.842" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$157" library="bottom labels" package="PPS1" value="" x="6.096" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$158" library="Labels" package="CS#-[&gt;-04" value="" x="41.783" y="83.058" smashed="yes" rot="MR0"/>
-<element name="U$159" library="corrected_bottom" package="RXI#MOSI0" value="" x="41.656" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$160" library="corrected_bottom" package="TXO#MISO1" value="" x="41.656" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$161" library="corrected_bottom" package="SCL#CLK2" value="" x="41.656" y="75.438" smashed="yes" rot="MR0"/>
-<element name="U$162" library="corrected_bottom" package="SCL5" value="" x="6.0706" y="83.0326" smashed="yes" rot="MR0"/>
-<element name="U$163" library="corrected_bottom" package="SDA4" value="" x="6.2992" y="85.5472" smashed="yes" rot="MR0"/>
-<element name="U$164" library="corrected_bottom" package="TXR3" value="" x="6.4262" y="80.4164" smashed="yes" rot="MR0"/>
-<element name="U$165" library="corrected_safe_reset" package="#RESET1" value="" x="1.524" y="77.978" smashed="yes"/>
-<element name="U$166" library="corrected_safe_reset" package="#RESET2" value="" x="7.493" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$167" library="corrected_safe_reset" package="#SAFEBOOT3" value="" x="10.033" y="75.438" smashed="yes" rot="MR0"/>
+<element name="U$163" library="zed" package="ZED#F9R0" value="" x="30.988" y="84.201" smashed="yes" rot="MR0"/>
+<element name="U$164" library="TXR" package="GRN1" value="" x="21.082" y="103.505" smashed="yes" rot="MR0"/>
+<element name="U$165" library="TXR" package="BLK2" value="" x="38.1" y="103.378" smashed="yes" rot="MR0"/>
+<element name="U$166" library="bottom labels" package="INT2" value="" x="5.842" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$167" library="bottom labels" package="PPS1" value="" x="6.096" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$168" library="Labels" package="CS#-[&gt;-04" value="" x="41.783" y="83.058" smashed="yes" rot="MR0"/>
+<element name="U$169" library="corrected_bottom" package="RXI#MOSI0" value="" x="41.656" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$170" library="corrected_bottom" package="TXO#MISO1" value="" x="41.656" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$171" library="corrected_bottom" package="SCL#CLK2" value="" x="41.656" y="75.438" smashed="yes" rot="MR0"/>
+<element name="U$172" library="corrected_bottom" package="SCL5" value="" x="6.0706" y="83.0326" smashed="yes" rot="MR0"/>
+<element name="U$173" library="corrected_bottom" package="SDA4" value="" x="6.2992" y="85.5472" smashed="yes" rot="MR0"/>
+<element name="U$174" library="corrected_bottom" package="TXR3" value="" x="6.4262" y="80.4164" smashed="yes" rot="MR0"/>
+<element name="U$175" library="corrected_safe_reset" package="#RESET1" value="" x="1.524" y="77.978" smashed="yes"/>
+<element name="U$176" library="corrected_safe_reset" package="#RESET2" value="" x="7.493" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$177" library="corrected_safe_reset" package="#SAFEBOOT3" value="" x="10.033" y="75.438" smashed="yes" rot="MR0"/>
 <element name="R61" library="SparkFun-Resistors" package="0603" value="33" x="9.3667" y="72.263" smashed="yes" rot="R180">
 <attribute name="NAME" x="9.3667" y="71.501" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-08270" x="9.3667" y="72.263" size="1.778" layer="27" rot="R180" display="off"/>
@@ -12611,9 +12815,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="20.701" y="61.468" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="32.131" y="55.753" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$168" library="wat-for-reals" package="#SFBT0" value="" x="1.397" y="75.438" smashed="yes"/>
-<element name="U$169" library="wat-for-reals" package="GEO1" value="" x="30.353" y="57.658" smashed="yes"/>
-<element name="U$170" library="wat-for-reals" package="GEO1" value="" x="34.036" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$178" library="wat-for-reals" package="#SFBT0" value="" x="1.397" y="75.438" smashed="yes"/>
+<element name="U$179" library="wat-for-reals" package="GEO1" value="" x="30.353" y="57.658" smashed="yes"/>
+<element name="U$180" library="wat-for-reals" package="GEO1" value="" x="34.036" y="57.277" smashed="yes" rot="MR0"/>
 <element name="FB3" library="SparkFun-Coils" package="0402_MURATA" value="120NH" x="17.526" y="69.469" smashed="yes">
 <attribute name="NAME" x="17.526" y="70.231" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="NDUC-15072" x="17.526" y="69.469" size="1.778" layer="27" display="off"/>
@@ -12699,36 +12903,36 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CAP-14993" x="-2.6228" y="94.6528" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 <attribute name="VALUE" x="21.6152" y="64.6528" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="U$171" library="wt_dir" package="D#0" value="" x="38.1" y="72.771" smashed="yes" rot="MR180"/>
-<element name="U$172" library="wt_dir" package="D#1" value="" x="38.227" y="70.358" smashed="yes" rot="MR180"/>
-<element name="U$173" library="wt_dir" package="W#2" value="" x="37.719" y="65.278" smashed="yes" rot="MR180"/>
-<element name="U$174" library="wt_dir" package="W#3" value="" x="37.846" y="67.818" smashed="yes" rot="MR180"/>
+<element name="U$181" library="wt_dir" package="D#0" value="" x="38.1" y="72.771" smashed="yes" rot="MR180"/>
+<element name="U$182" library="wt_dir" package="D#1" value="" x="38.227" y="70.358" smashed="yes" rot="MR180"/>
+<element name="U$183" library="wt_dir" package="W#2" value="" x="37.719" y="65.278" smashed="yes" rot="MR180"/>
+<element name="U$184" library="wt_dir" package="W#3" value="" x="37.846" y="67.818" smashed="yes" rot="MR180"/>
 <element name="C30" library="SparkFun-Capacitors" package="0603" value="1.0uF" x="19.7866" y="88.6206" smashed="yes">
 <attribute name="NAME" x="19.7866" y="89.3826" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13930" x="19.7866" y="88.6206" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="19.7866" y="87.8586" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$175" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="20.32" y="97.028" smashed="yes"/>
-<element name="U$176" library="Labels" package="SCL-[)" value="" x="1.651" y="83.0326" smashed="yes"/>
-<element name="U$177" library="Labels" package="SDA-[)" value="" x="1.651" y="85.598" smashed="yes"/>
-<element name="U$178" library="Labels" package="3V3-04" value="" x="1.651" y="88.138" smashed="yes"/>
-<element name="U$179" library="Labels" package="GND-04" value="" x="1.651" y="90.6526" smashed="yes"/>
-<element name="U$180" library="Labels" package="3V3-04" value="" x="36.9824" y="85.598" smashed="yes"/>
-<element name="U$181" library="Labels" package="GND-04" value="" x="36.703" y="90.6526" smashed="yes"/>
-<element name="U$182" library="Labels" package="MISO-(]-04" value="" x="36.322" y="77.9526" smashed="yes"/>
-<element name="U$183" library="Labels" package="MOSI-(]-04" value="" x="36.2458" y="80.5434" smashed="yes"/>
-<element name="U$184" library="wt_dir" package="D#0" value="" x="38.1" y="72.7964" smashed="yes"/>
-<element name="U$185" library="wt_dir" package="D#1" value="" x="38.2016" y="70.358" smashed="yes"/>
-<element name="U$186" library="wt_dir" package="W#2" value="" x="37.719" y="65.3034" smashed="yes"/>
-<element name="U$187" library="wt_dir" package="W#3" value="" x="37.8206" y="67.818" smashed="yes"/>
-<element name="U$188" library="Labels" package="5V" value="" x="37.9476" y="88.138" smashed="yes"/>
-<element name="U$189" library="ALL_LABELS" package="INT1" value="" x="1.5748" y="72.898" smashed="yes"/>
-<element name="U$190" library="ALL_LABELS" package="PPS4" value="" x="1.6764" y="70.3072" smashed="yes"/>
-<element name="U$191" library="Labels" package="GND-04" value="" x="34.29" y="98.171" smashed="yes" rot="R90"/>
-<element name="U$192" library="moar" package="TXO21" value="" x="24.1046" y="97.282" smashed="yes" rot="R90"/>
-<element name="U$193" library="txr_rxi" package="RXI22" value="" x="26.6192" y="98.1202" smashed="yes" rot="R90"/>
-<element name="U$194" library="txr_rxi" package="SCLK1" value="" x="36.3474" y="75.438" smashed="yes"/>
-<element name="U$195" library="txr_rxi" package="TXR0" value="" x="1.5748" y="80.4164" smashed="yes"/>
+<element name="U$185" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="20.32" y="97.028" smashed="yes"/>
+<element name="U$186" library="Labels" package="SCL-[)" value="" x="1.651" y="83.0326" smashed="yes"/>
+<element name="U$187" library="Labels" package="SDA-[)" value="" x="1.651" y="85.598" smashed="yes"/>
+<element name="U$188" library="Labels" package="3V3-04" value="" x="1.651" y="88.138" smashed="yes"/>
+<element name="U$189" library="Labels" package="GND-04" value="" x="1.651" y="90.6526" smashed="yes"/>
+<element name="U$190" library="Labels" package="3V3-04" value="" x="36.9824" y="85.598" smashed="yes"/>
+<element name="U$191" library="Labels" package="GND-04" value="" x="36.703" y="90.6526" smashed="yes"/>
+<element name="U$192" library="Labels" package="MISO-(]-04" value="" x="36.322" y="77.9526" smashed="yes"/>
+<element name="U$193" library="Labels" package="MOSI-(]-04" value="" x="36.2458" y="80.5434" smashed="yes"/>
+<element name="U$194" library="wt_dir" package="D#0" value="" x="38.1" y="72.7964" smashed="yes"/>
+<element name="U$195" library="wt_dir" package="D#1" value="" x="38.2016" y="70.358" smashed="yes"/>
+<element name="U$196" library="wt_dir" package="W#2" value="" x="37.719" y="65.3034" smashed="yes"/>
+<element name="U$197" library="wt_dir" package="W#3" value="" x="37.8206" y="67.818" smashed="yes"/>
+<element name="U$198" library="Labels" package="5V" value="" x="37.9476" y="88.138" smashed="yes"/>
+<element name="U$199" library="ALL_LABELS" package="INT1" value="" x="1.5748" y="72.898" smashed="yes"/>
+<element name="U$200" library="ALL_LABELS" package="PPS4" value="" x="1.6764" y="70.3072" smashed="yes"/>
+<element name="U$201" library="Labels" package="GND-04" value="" x="34.29" y="98.171" smashed="yes" rot="R90"/>
+<element name="U$202" library="moar" package="TXO21" value="" x="24.1046" y="97.282" smashed="yes" rot="R90"/>
+<element name="U$203" library="txr_rxi" package="RXI22" value="" x="26.6192" y="98.1202" smashed="yes" rot="R90"/>
+<element name="U$204" library="txr_rxi" package="SCLK1" value="" x="36.3474" y="75.438" smashed="yes"/>
+<element name="U$205" library="txr_rxi" package="TXR0" value="" x="1.5748" y="80.4164" smashed="yes"/>
 <element name="R69" library="SparkFun-Resistors" package="1206_RA" value="33" x="8.763" y="82.55" smashed="yes" rot="R270">
 <attribute name="PROD_ID" value="RES-15081" x="8.763" y="82.55" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -12741,9 +12945,14 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="R72" library="SparkFun-Resistors" package="1206_RA" value="33" x="35.433" y="76.073" smashed="yes" rot="R270">
 <attribute name="PROD_ID" value="RES-15081" x="35.433" y="76.073" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U$196" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="32.004" y="87.122" smashed="yes" rot="MR0"/>
-<element name="U$197" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="22.86" y="76.708" smashed="yes" rot="MR0"/>
-<element name="U$198" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="6.35" y="65.278" smashed="yes"/>
+<element name="U$206" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="32.004" y="87.122" smashed="yes" rot="MR0"/>
+<element name="U$207" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="22.86" y="76.708" smashed="yes" rot="MR0"/>
+<element name="U$208" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="17.018" y="58.547" smashed="yes"/>
+<element name="U$209" library="Orientation" package="X1" value="" x="6.223" y="65.913" smashed="yes"/>
+<element name="U$210" library="Orientation" package="Y2" value="" x="10.16" y="69.342" smashed="yes"/>
+<element name="U$211" library="Orientation" package="Y2" value="" x="12.954" y="69.342" smashed="yes" rot="MR0"/>
+<element name="U$212" library="Orientation" package="Z0" value="" x="11.176" y="67.31" smashed="yes" rot="MR0"/>
+<element name="U$213" library="Orientation" package="Z0" value="" x="8.382" y="67.31" smashed="yes"/>
 <element name="J22" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="48.768" y="95.758" smashed="yes" rot="R270">
 <attribute name="NAME" x="46.609" y="97.155" size="0.6096" layer="25" font="vector" ratio="20" rot="R270"/>
 <attribute name="PROD_ID" value="CONN-13694" x="48.768" y="95.758" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
@@ -12936,44 +13145,44 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="RES-13495" x="64.6684" y="94.3864" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="63.3984" y="91.3384" size="0.6096" layer="27" font="vector" ratio="20" rot="R180" align="top-center"/>
 </element>
-<element name="U$199" library="Labels" package="CS#-&lt;]-04" value="" x="81.788" y="83.058" smashed="yes"/>
-<element name="U$200" library="ALL labels" package="PPS8" value="" x="70.358" y="57.658" smashed="yes"/>
-<element name="U$201" library="ALL labels" package="PWR10" value="" x="65.913" y="57.658" smashed="yes"/>
-<element name="U$202" library="ALL labels" package="RTK9" value="" x="77.978" y="57.658" smashed="yes"/>
-<element name="U$203" library="TXR" package="BLK2" value="" x="78.486" y="103.378" smashed="yes"/>
-<element name="U$204" library="TXR" package="GRN1" value="" x="61.087" y="103.505" smashed="yes"/>
-<element name="U$205" library="Labels" package="3V3-04" value="" x="49.9618" y="88.1126" smashed="yes" rot="MR0"/>
-<element name="U$206" library="Labels" package="GND-04" value="" x="50.165" y="90.6526" smashed="yes" rot="MR0"/>
-<element name="U$207" library="Labels" package="3V3-04" value="" x="85.344" y="85.598" smashed="yes" rot="MR0"/>
-<element name="U$208" library="Labels" package="GND-04" value="" x="85.217" y="90.6526" smashed="yes" rot="MR0"/>
-<element name="U$209" library="Labels" package="5V" value="" x="85.344" y="88.138" smashed="yes" rot="MR0"/>
-<element name="U$210" library="Labels" package="GND-04" value="" x="77.978" y="98.171" smashed="yes" rot="MR90"/>
-<element name="U$211" library="ALL_LABELS" package="RXI28" value="" x="70.358" y="98.171" smashed="yes" rot="MR90"/>
-<element name="U$212" library="moar" package="TXO21" value="" x="67.818" y="97.282" smashed="yes" rot="MR90"/>
-<element name="U$213" library="more_all_labels" package="SPI4" value="" x="55.118" y="78.867" smashed="yes" rot="MR90"/>
-<element name="U$214" library="Labels" package="I_SUPER2_C-()-04" value="" x="55.319290625" y="83.9833" smashed="yes" rot="MR90"/>
-<element name="U$215" library="ALL labels" package="RTK9" value="" x="81.407" y="57.277" smashed="yes" rot="MR0"/>
-<element name="U$216" library="ALL labels" package="PPS8" value="" x="73.787" y="57.277" smashed="yes" rot="MR0"/>
-<element name="U$217" library="ALL labels" package="PWR10" value="" x="70.104" y="57.277" smashed="yes" rot="MR0"/>
-<element name="U$218" library="ant" package="ANT0" value="" x="58.547" y="62.484" smashed="yes"/>
+<element name="U$214" library="Labels" package="CS#-&lt;]-04" value="" x="81.788" y="83.058" smashed="yes"/>
+<element name="U$215" library="ALL labels" package="PPS8" value="" x="70.358" y="57.658" smashed="yes"/>
+<element name="U$216" library="ALL labels" package="PWR10" value="" x="65.913" y="57.658" smashed="yes"/>
+<element name="U$217" library="ALL labels" package="RTK9" value="" x="77.978" y="57.658" smashed="yes"/>
+<element name="U$218" library="TXR" package="BLK2" value="" x="78.486" y="103.378" smashed="yes"/>
+<element name="U$219" library="TXR" package="GRN1" value="" x="61.087" y="103.505" smashed="yes"/>
+<element name="U$220" library="Labels" package="3V3-04" value="" x="49.9618" y="88.1126" smashed="yes" rot="MR0"/>
+<element name="U$221" library="Labels" package="GND-04" value="" x="50.165" y="90.6526" smashed="yes" rot="MR0"/>
+<element name="U$222" library="Labels" package="3V3-04" value="" x="85.344" y="85.598" smashed="yes" rot="MR0"/>
+<element name="U$223" library="Labels" package="GND-04" value="" x="85.217" y="90.6526" smashed="yes" rot="MR0"/>
+<element name="U$224" library="Labels" package="5V" value="" x="85.344" y="88.138" smashed="yes" rot="MR0"/>
+<element name="U$225" library="Labels" package="GND-04" value="" x="77.978" y="98.171" smashed="yes" rot="MR90"/>
+<element name="U$226" library="ALL_LABELS" package="RXI28" value="" x="70.358" y="98.171" smashed="yes" rot="MR90"/>
+<element name="U$227" library="moar" package="TXO21" value="" x="67.818" y="97.282" smashed="yes" rot="MR90"/>
+<element name="U$228" library="more_all_labels" package="SPI4" value="" x="55.118" y="78.867" smashed="yes" rot="MR90"/>
+<element name="U$229" library="Labels" package="I_SUPER2_C-()-04" value="" x="55.319290625" y="83.9833" smashed="yes" rot="MR90"/>
+<element name="U$230" library="ALL labels" package="RTK9" value="" x="81.407" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$231" library="ALL labels" package="PPS8" value="" x="73.787" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$232" library="ALL labels" package="PWR10" value="" x="70.104" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$233" library="ant" package="ANT0" value="" x="58.547" y="62.484" smashed="yes"/>
 <element name="LOGO10" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.2" value="SFE_LOGO_NAME_FLAME.2_INCH" x="65.278" y="90.678" smashed="yes" rot="MR0"/>
 <element name="LOGO11" library="SparkFun-Aesthetics" package="QWIIC_4MM" value="QWIIC_LOGO_4MM" x="79.756" y="95.758" smashed="yes" rot="R270"/>
 <element name="LOGO12" library="SparkFun-Aesthetics" package="OSHW-LOGO-M" value="OSHW-LOGOM" x="52.705" y="56.769" smashed="yes"/>
-<element name="U$219" library="zed" package="ZED#F9R0" value="" x="74.676" y="84.201" smashed="yes" rot="MR0"/>
-<element name="U$220" library="TXR" package="GRN1" value="" x="64.77" y="103.505" smashed="yes" rot="MR0"/>
-<element name="U$221" library="TXR" package="BLK2" value="" x="81.788" y="103.378" smashed="yes" rot="MR0"/>
-<element name="U$222" library="bottom labels" package="INT2" value="" x="49.53" y="72.898" smashed="yes" rot="MR0"/>
-<element name="U$223" library="bottom labels" package="PPS1" value="" x="49.784" y="70.358" smashed="yes" rot="MR0"/>
-<element name="U$224" library="Labels" package="CS#-[&gt;-04" value="" x="85.471" y="83.058" smashed="yes" rot="MR0"/>
-<element name="U$225" library="corrected_bottom" package="RXI#MOSI0" value="" x="85.344" y="80.518" smashed="yes" rot="MR0"/>
-<element name="U$226" library="corrected_bottom" package="TXO#MISO1" value="" x="85.344" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$227" library="corrected_bottom" package="SCL#CLK2" value="" x="85.344" y="75.438" smashed="yes" rot="MR0"/>
-<element name="U$228" library="corrected_bottom" package="SCL5" value="" x="49.7586" y="83.0326" smashed="yes" rot="MR0"/>
-<element name="U$229" library="corrected_bottom" package="SDA4" value="" x="49.9872" y="85.5472" smashed="yes" rot="MR0"/>
-<element name="U$230" library="corrected_bottom" package="TXR3" value="" x="50.1142" y="80.4164" smashed="yes" rot="MR0"/>
-<element name="U$231" library="corrected_safe_reset" package="#RESET1" value="" x="45.212" y="77.978" smashed="yes"/>
-<element name="U$232" library="corrected_safe_reset" package="#RESET2" value="" x="51.181" y="77.978" smashed="yes" rot="MR0"/>
-<element name="U$233" library="corrected_safe_reset" package="#SAFEBOOT3" value="" x="53.721" y="75.438" smashed="yes" rot="MR0"/>
+<element name="U$234" library="zed" package="ZED#F9R0" value="" x="74.676" y="84.201" smashed="yes" rot="MR0"/>
+<element name="U$235" library="TXR" package="GRN1" value="" x="64.77" y="103.505" smashed="yes" rot="MR0"/>
+<element name="U$236" library="TXR" package="BLK2" value="" x="81.788" y="103.378" smashed="yes" rot="MR0"/>
+<element name="U$237" library="bottom labels" package="INT2" value="" x="49.53" y="72.898" smashed="yes" rot="MR0"/>
+<element name="U$238" library="bottom labels" package="PPS1" value="" x="49.784" y="70.358" smashed="yes" rot="MR0"/>
+<element name="U$239" library="Labels" package="CS#-[&gt;-04" value="" x="85.471" y="83.058" smashed="yes" rot="MR0"/>
+<element name="U$240" library="corrected_bottom" package="RXI#MOSI0" value="" x="85.344" y="80.518" smashed="yes" rot="MR0"/>
+<element name="U$241" library="corrected_bottom" package="TXO#MISO1" value="" x="85.344" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$242" library="corrected_bottom" package="SCL#CLK2" value="" x="85.344" y="75.438" smashed="yes" rot="MR0"/>
+<element name="U$243" library="corrected_bottom" package="SCL5" value="" x="49.7586" y="83.0326" smashed="yes" rot="MR0"/>
+<element name="U$244" library="corrected_bottom" package="SDA4" value="" x="49.9872" y="85.5472" smashed="yes" rot="MR0"/>
+<element name="U$245" library="corrected_bottom" package="TXR3" value="" x="50.1142" y="80.4164" smashed="yes" rot="MR0"/>
+<element name="U$246" library="corrected_safe_reset" package="#RESET1" value="" x="45.212" y="77.978" smashed="yes"/>
+<element name="U$247" library="corrected_safe_reset" package="#RESET2" value="" x="51.181" y="77.978" smashed="yes" rot="MR0"/>
+<element name="U$248" library="corrected_safe_reset" package="#SAFEBOOT3" value="" x="53.721" y="75.438" smashed="yes" rot="MR0"/>
 <element name="R85" library="SparkFun-Resistors" package="0603" value="33" x="53.0547" y="72.263" smashed="yes" rot="R180">
 <attribute name="NAME" x="53.0547" y="71.501" size="0.6096" layer="25" font="vector" ratio="20" rot="R180" align="bottom-center"/>
 <attribute name="PROD_ID" value="RES-08270" x="53.0547" y="72.263" size="1.778" layer="27" rot="R180" display="off"/>
@@ -12993,9 +13202,9 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="DIO-08575" x="64.389" y="61.468" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="75.819" y="55.753" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$234" library="wat-for-reals" package="#SFBT0" value="" x="45.085" y="75.438" smashed="yes"/>
-<element name="U$235" library="wat-for-reals" package="GEO1" value="" x="74.041" y="57.658" smashed="yes"/>
-<element name="U$236" library="wat-for-reals" package="GEO1" value="" x="77.724" y="57.277" smashed="yes" rot="MR0"/>
+<element name="U$249" library="wat-for-reals" package="#SFBT0" value="" x="45.085" y="75.438" smashed="yes"/>
+<element name="U$250" library="wat-for-reals" package="GEO1" value="" x="74.041" y="57.658" smashed="yes"/>
+<element name="U$251" library="wat-for-reals" package="GEO1" value="" x="77.724" y="57.277" smashed="yes" rot="MR0"/>
 <element name="FB4" library="SparkFun-Coils" package="0402_MURATA" value="120NH" x="61.214" y="69.469" smashed="yes">
 <attribute name="NAME" x="61.214" y="70.231" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="NDUC-15072" x="61.214" y="69.469" size="1.778" layer="27" display="off"/>
@@ -13081,36 +13290,36 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="PROD_ID" value="CAP-14993" x="41.0652" y="94.6528" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 <attribute name="VALUE" x="65.3032" y="64.6528" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="U$237" library="wt_dir" package="D#0" value="" x="81.788" y="72.771" smashed="yes" rot="MR180"/>
-<element name="U$238" library="wt_dir" package="D#1" value="" x="81.915" y="70.358" smashed="yes" rot="MR180"/>
-<element name="U$239" library="wt_dir" package="W#2" value="" x="81.407" y="65.278" smashed="yes" rot="MR180"/>
-<element name="U$240" library="wt_dir" package="W#3" value="" x="81.534" y="67.818" smashed="yes" rot="MR180"/>
+<element name="U$252" library="wt_dir" package="D#0" value="" x="81.788" y="72.771" smashed="yes" rot="MR180"/>
+<element name="U$253" library="wt_dir" package="D#1" value="" x="81.915" y="70.358" smashed="yes" rot="MR180"/>
+<element name="U$254" library="wt_dir" package="W#2" value="" x="81.407" y="65.278" smashed="yes" rot="MR180"/>
+<element name="U$255" library="wt_dir" package="W#3" value="" x="81.534" y="67.818" smashed="yes" rot="MR180"/>
 <element name="C40" library="SparkFun-Capacitors" package="0603" value="1.0uF" x="63.4746" y="88.6206" smashed="yes">
 <attribute name="NAME" x="63.4746" y="89.3826" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-13930" x="63.4746" y="88.6206" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="63.4746" y="87.8586" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
-<element name="U$241" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="64.008" y="97.028" smashed="yes"/>
-<element name="U$242" library="Labels" package="SCL-[)" value="" x="45.339" y="83.0326" smashed="yes"/>
-<element name="U$243" library="Labels" package="SDA-[)" value="" x="45.339" y="85.598" smashed="yes"/>
-<element name="U$244" library="Labels" package="3V3-04" value="" x="45.339" y="88.138" smashed="yes"/>
-<element name="U$245" library="Labels" package="GND-04" value="" x="45.339" y="90.6526" smashed="yes"/>
-<element name="U$246" library="Labels" package="3V3-04" value="" x="80.6704" y="85.598" smashed="yes"/>
-<element name="U$247" library="Labels" package="GND-04" value="" x="80.391" y="90.6526" smashed="yes"/>
-<element name="U$248" library="Labels" package="MISO-(]-04" value="" x="80.01" y="77.9526" smashed="yes"/>
-<element name="U$249" library="Labels" package="MOSI-(]-04" value="" x="79.9338" y="80.5434" smashed="yes"/>
-<element name="U$250" library="wt_dir" package="D#0" value="" x="81.788" y="72.7964" smashed="yes"/>
-<element name="U$251" library="wt_dir" package="D#1" value="" x="81.8896" y="70.358" smashed="yes"/>
-<element name="U$252" library="wt_dir" package="W#2" value="" x="81.407" y="65.3034" smashed="yes"/>
-<element name="U$253" library="wt_dir" package="W#3" value="" x="81.5086" y="67.818" smashed="yes"/>
-<element name="U$254" library="Labels" package="5V" value="" x="81.6356" y="88.138" smashed="yes"/>
-<element name="U$255" library="ALL_LABELS" package="INT1" value="" x="45.2628" y="72.898" smashed="yes"/>
-<element name="U$256" library="ALL_LABELS" package="PPS4" value="" x="45.3644" y="70.3072" smashed="yes"/>
-<element name="U$257" library="Labels" package="GND-04" value="" x="77.978" y="98.171" smashed="yes" rot="R90"/>
-<element name="U$258" library="moar" package="TXO21" value="" x="67.7926" y="97.282" smashed="yes" rot="R90"/>
-<element name="U$259" library="txr_rxi" package="RXI22" value="" x="70.3072" y="98.1202" smashed="yes" rot="R90"/>
-<element name="U$260" library="txr_rxi" package="SCLK1" value="" x="80.0354" y="75.438" smashed="yes"/>
-<element name="U$261" library="txr_rxi" package="TXR0" value="" x="45.2628" y="80.4164" smashed="yes"/>
+<element name="U$256" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.2" value="" x="64.008" y="97.028" smashed="yes"/>
+<element name="U$257" library="Labels" package="SCL-[)" value="" x="45.339" y="83.0326" smashed="yes"/>
+<element name="U$258" library="Labels" package="SDA-[)" value="" x="45.339" y="85.598" smashed="yes"/>
+<element name="U$259" library="Labels" package="3V3-04" value="" x="45.339" y="88.138" smashed="yes"/>
+<element name="U$260" library="Labels" package="GND-04" value="" x="45.339" y="90.6526" smashed="yes"/>
+<element name="U$261" library="Labels" package="3V3-04" value="" x="80.6704" y="85.598" smashed="yes"/>
+<element name="U$262" library="Labels" package="GND-04" value="" x="80.391" y="90.6526" smashed="yes"/>
+<element name="U$263" library="Labels" package="MISO-(]-04" value="" x="80.01" y="77.9526" smashed="yes"/>
+<element name="U$264" library="Labels" package="MOSI-(]-04" value="" x="79.9338" y="80.5434" smashed="yes"/>
+<element name="U$265" library="wt_dir" package="D#0" value="" x="81.788" y="72.7964" smashed="yes"/>
+<element name="U$266" library="wt_dir" package="D#1" value="" x="81.8896" y="70.358" smashed="yes"/>
+<element name="U$267" library="wt_dir" package="W#2" value="" x="81.407" y="65.3034" smashed="yes"/>
+<element name="U$268" library="wt_dir" package="W#3" value="" x="81.5086" y="67.818" smashed="yes"/>
+<element name="U$269" library="Labels" package="5V" value="" x="81.6356" y="88.138" smashed="yes"/>
+<element name="U$270" library="ALL_LABELS" package="INT1" value="" x="45.2628" y="72.898" smashed="yes"/>
+<element name="U$271" library="ALL_LABELS" package="PPS4" value="" x="45.3644" y="70.3072" smashed="yes"/>
+<element name="U$272" library="Labels" package="GND-04" value="" x="77.978" y="98.171" smashed="yes" rot="R90"/>
+<element name="U$273" library="moar" package="TXO21" value="" x="67.7926" y="97.282" smashed="yes" rot="R90"/>
+<element name="U$274" library="txr_rxi" package="RXI22" value="" x="70.3072" y="98.1202" smashed="yes" rot="R90"/>
+<element name="U$275" library="txr_rxi" package="SCLK1" value="" x="80.0354" y="75.438" smashed="yes"/>
+<element name="U$276" library="txr_rxi" package="TXR0" value="" x="45.2628" y="80.4164" smashed="yes"/>
 <element name="R93" library="SparkFun-Resistors" package="1206_RA" value="33" x="52.451" y="82.55" smashed="yes" rot="R270">
 <attribute name="PROD_ID" value="RES-15081" x="52.451" y="82.55" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
@@ -13123,9 +13332,14 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="R96" library="SparkFun-Resistors" package="1206_RA" value="33" x="79.121" y="76.073" smashed="yes" rot="R270">
 <attribute name="PROD_ID" value="RES-15081" x="79.121" y="76.073" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
-<element name="U$262" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="75.692" y="87.122" smashed="yes" rot="MR0"/>
-<element name="U$263" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="66.548" y="76.708" smashed="yes" rot="MR0"/>
-<element name="U$264" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="50.038" y="65.278" smashed="yes"/>
+<element name="U$277" library="dead reckoning" package="GPS_DEAD_RECKONING0" value="" x="75.692" y="87.122" smashed="yes" rot="MR0"/>
+<element name="U$278" library="Dead#Reckoning#GPS#board#silk#FINAL#png" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="66.548" y="76.708" smashed="yes" rot="MR0"/>
+<element name="U$279" library="Dead#Reckoning#GPS#board#silk#FINALSMALL" package="DEAD#RECKONING#GPS#BOARD#SILK#FINAL#JPG" value="" x="60.706" y="58.547" smashed="yes"/>
+<element name="U$280" library="Orientation" package="X1" value="" x="49.911" y="65.913" smashed="yes"/>
+<element name="U$281" library="Orientation" package="Y2" value="" x="53.848" y="69.342" smashed="yes"/>
+<element name="U$282" library="Orientation" package="Y2" value="" x="56.642" y="69.342" smashed="yes" rot="MR0"/>
+<element name="U$283" library="Orientation" package="Z0" value="" x="54.864" y="67.31" smashed="yes" rot="MR0"/>
+<element name="U$284" library="Orientation" package="Z0" value="" x="52.07" y="67.31" smashed="yes"/>
 <element name="E$1" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="6.858" y="109.2835" smashed="yes"/>
 <element name="E$2" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="6.858" y="109.2835" smashed="yes" rot="MR0"/>
 <element name="E$3" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="" x="79.9465" y="109.2835" smashed="yes"/>
