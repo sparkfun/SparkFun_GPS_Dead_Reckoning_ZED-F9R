@@ -11962,7 +11962,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="C1" library="SparkFun-Capacitors" package="0402" value="0.1uF" x="27.62" y="5.702" smashed="yes">
 <attribute name="NAME" x="27.62" y="6.464" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-14993" x="27.62" y="5.702" size="1.778" layer="27" display="off"/>
+<attribute name="PROD_ID" value="CAP-15083" x="27.62" y="5.702" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" value="0.1uF" x="27.62" y="5.702" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U3" library="SparkFun-IC-Amplifiers" package="SIP6" value="UHS_INVERTER_SCHMITT_TRIGGERSIP6" x="24.331" y="11.049" smashed="yes">
@@ -11982,12 +11982,12 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 </element>
 <element name="C6" library="SparkFun-Capacitors" package="0402" value="0.1uF" x="26.213" y="13.376" smashed="yes" rot="R90">
 <attribute name="NAME" x="25.451" y="13.376" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-14993" x="51.213" y="-44.624" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
+<attribute name="PROD_ID" value="CAP-15083" x="51.213" y="-44.624" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="VALUE" x="26.975" y="13.376" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
 <element name="C7" library="SparkFun-Capacitors" package="0402" value="0.1uF" x="22.3772" y="10.8048" smashed="yes" rot="R270">
 <attribute name="NAME" x="23.1392" y="10.8048" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-14993" x="-2.6228" y="40.8048" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
+<attribute name="PROD_ID" value="CAP-15083" x="-2.6228" y="40.8048" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 <attribute name="VALUE" x="21.6152" y="10.8048" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
 <element name="U$60" library="wt_dir" package="D#0" value="" x="38.1" y="18.923" smashed="yes" rot="MR180"/>

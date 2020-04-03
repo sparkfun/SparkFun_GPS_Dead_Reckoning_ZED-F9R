@@ -23855,6 +23855,18 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 </technology>
 </technologies>
 </device>
+<device name="-0402-10V-10%-X7R" package="0402">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="CAP-15083" constant="no"/>
+<attribute name="VALUE" value="0.1uF" constant="no"/>
+</technology>
+</technologies>
+</device>
 </devices>
 </deviceset>
 </devicesets>
@@ -25646,7 +25658,7 @@ voltages up to 5.5 V independent of VCC operating voltage.
 <part name="R7" library="SparkFun-Resistors" deviceset="910OHM" device="-0603-1/10W-5%" value="910"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="910OHM" device="-0603-1/10W-5%" value="910"/>
 <part name="U1" library="SparkFun-DiscreteSemi" deviceset="DUAL-OPTO_HCPL-073L" device=""/>
-<part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-6.3V-10%-X7R" value="0.1uF"/>
+<part name="C1" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-10V-10%-X7R" value="0.1uF"/>
 <part name="SUPPLY21" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND25" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="U3" library="SparkFun-IC-Amplifiers" deviceset="UHS_INVERTER_SCHMITT_TRIGGER" device="SIP6" value="UHS_INVERTER_SCHMITT_TRIGGERSIP6"/>
@@ -25656,8 +25668,8 @@ voltages up to 5.5 V independent of VCC operating voltage.
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE-ZENER" device="-BZX84C15LT3G" value="15V"/>
 <part name="SUPPLY23" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="SUPPLY24" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
-<part name="C6" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-6.3V-10%-X7R" value="0.1uF"/>
-<part name="C7" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-6.3V-10%-X7R" value="0.1uF"/>
+<part name="C6" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-10V-10%-X7R" value="0.1uF"/>
+<part name="C7" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0402-10V-10%-X7R" value="0.1uF"/>
 <part name="GND29" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="C5" library="SparkFun-Capacitors" deviceset="1.0UF" device="-0603-16V-10%-X7R" value="1.0uF"/>
 <part name="GND20" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
