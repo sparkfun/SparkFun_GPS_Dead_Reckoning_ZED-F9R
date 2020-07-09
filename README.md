@@ -1,7 +1,7 @@
 SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)
 ========================================
 
-[![SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)](URL for picture of part)](https://www.sparkfun.com/products/16344)
+[![SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)](https://cdn.sparkfun.com//assets/parts/1/5/0/5/9/16344-SparkFun_GPS-RTK_Dead_Reckoning_Breakout_-_ZED-F9R__Qwiic_-01a.jpg)](https://www.sparkfun.com/products/16344)
 
 [*SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic) (GPS-16344)*](https://www.sparkfun.com/products/16344)
 
