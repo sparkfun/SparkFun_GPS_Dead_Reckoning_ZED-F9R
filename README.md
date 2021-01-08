@@ -25,7 +25,7 @@ Product Versions
 
 Version History
 ---------------
-* v1.0 - Initial Release
+* [v1.0](https://github.com/sparkfun/SparkFun_GPS_Dead_Reckoning_ZED-F9R/releases/tag/v1.0) - Initial Release
 
 License Information
 -------------------
