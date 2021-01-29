@@ -26,7 +26,7 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_Ublox_Arduino_Library)** - Arduino library for the ZED-F9R.
+* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)** - Arduino library for the ZED-F9R.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/1172)** - Basic hookup guide for the ZED-F9R.
 
 Product Versions
