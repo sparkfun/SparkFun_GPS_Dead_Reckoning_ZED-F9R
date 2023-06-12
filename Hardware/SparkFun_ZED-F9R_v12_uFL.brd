@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="mm" style="dots" multiple="1" display="yes" altdistance="0.002" altunitdist="inch" altunit="mm"/>
+<grid distance="0.05" unitdist="inch" unit="inch" style="dots" multiple="1" display="yes" altdistance="0.002" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="16" fill="1" visible="no" active="no"/>
@@ -54,7 +54,7 @@
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
 <layer number="49" name="Reference" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="yes"/>
@@ -230,12 +230,21 @@
 <wire x1="12.065" y1="14.224" x2="12.446" y2="14.605" width="0.254" layer="22"/>
 <wire x1="8.2005875" y1="15.040409375" x2="9.0986125" y2="14.142384375" width="0.254" layer="22"/>
 <wire x1="9.046009375" y1="14.989609375" x2="8.147984375" y2="14.091584375" width="0.254" layer="22"/>
-<dimension x1="14.02" y1="2.24" x2="0" y2="1.016" x3="7.01" y3="-10.287" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="1.27" y1="16.51" x2="1.27" y2="0" x3="-6.35" y3="8.255" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
-<dimension x1="41.91" y1="36.83" x2="41.91" y2="50.8" x3="50.8" y3="43.815" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="41.91" y1="36.83" x2="41.91" y2="50.8" x3="53.34" y3="43.815" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="38.1" y1="41.91" x2="38.1" y2="50.8" x3="46.99" y3="46.355" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="1.27" y1="36.83" x2="1.27" y2="50.8" x3="-6.35" y3="43.815" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
-<dimension x1="41.91" y1="11.43" x2="41.91" y2="0" x3="46.99" y3="5.715" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="41.91" y1="11.43" x2="41.91" y2="0" x3="53.34" y3="5.715" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
+<text x="62.23" y="40.64" size="1.778" layer="51" font="vector" align="top-left">1.6mm Thickness
+2-Layers
+1oz Copper
+Material: TG135-140
+Lead-Free HASL finish
+Red soldermask
+White silkscreen</text>
+<dimension x1="1.27" y1="36.83" x2="1.27" y2="16.51" x3="-6.35" y3="26.67" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="41.91" y1="11.43" x2="41.91" y2="36.83" x3="53.34" y3="24.13" textsize="1.778" layer="47" unit="inch"/>
+<dimension x1="16.8148" y1="11.049" x2="0.0508" y2="11.0236" x3="8.4572" y3="-5.067184375" textsize="1.778" layer="47" unit="inch"/>
 </plain>
 <libraries>
 <library name="SparkFun-Aesthetics">
@@ -1180,6 +1189,21 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <vertex x="-0.4688" y="0" curve="-247.473915"/>
 <vertex x="0.1794" y="-0.4331"/>
 </polygon>
+</package>
+<package name="ORDERING_INSTRUCTIONS">
+<description>&lt;h3&gt;Special Ordering Instructions Alert&lt;/h3&gt;
+&lt;p&gt;Indicates that the PCB material, colors, copper weights, and/or thickness are non-standard.&lt;/p&gt;
+&lt;p&gt;(Standard is 1.6mm FR4, 1 oz copper, immersion silver plating, red soldermask, white silkscreen.)&lt;/p&gt;
+&lt;p&gt;Use 0.7" Vector font @ 8% ratio</description>
+<text x="1.27" y="-1.27" size="3.048" layer="51" font="vector" ratio="15" align="top-left">Ordering Instructions:</text>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-8.89" x2="101.6" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="101.6" y1="-50.8" x2="0" y2="-50.8" width="0.2032" layer="51"/>
+<wire x1="0" y1="-50.8" x2="0" y2="-8.89" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="0" y2="0" width="0.2032" layer="51"/>
+<wire x1="0" y1="-8.89" x2="101.6" y2="-8.89" width="0.2032" layer="51"/>
+<text x="1.27" y="-6.35" size="1.778" layer="51" font="vector" align="top-left">(Add these comments when uploading gerbers.)</text>
 </package>
 </packages>
 </library>
@@ -15393,6 +15417,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="U$76" library="bot" package="#POCI#3" value="" x="39.1668" y="26.67" smashed="yes"/>
 <element name="U$77" library="top" package="#RXI#POCI#15" value="" x="37.4904" y="26.67" smashed="yes" rot="MR0"/>
 <element name="U$78" library="top" package="#TXO#PICO#16" value="" x="36.8808" y="24.13" smashed="yes" rot="MR0"/>
+<element name="LOGO5" library="SparkFun-Aesthetics" package="ORDERING_INSTRUCTIONS" value="SPECIAL_INSTRUCTIONS-ORDERING" x="59.69" y="50.8" smashed="yes"/>
 </elements>
 <signals>
 <signal name="GND">
@@ -16663,6 +16688,10 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 </board>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.3" severity="warning">
 Since Version 8.3, EAGLE supports URNs for individual library
 assets (packages, symbols, and devices). The URNs of those assets
