@@ -26,7 +26,8 @@ Repository Contents
 
 Documentation
 --------------
-* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library)** - Arduino library for the ZED-F9R.
+* **[Library](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3)** - Arduino library v3 for the ZED-F9R.
+    * _**Note**: We support two versions of the SparkFun u-blox GNSS library. [Version 2](https://github.com/sparkfun/SparkFun_u-blox_GNSS_Arduino_Library) and [Version 3](https://github.com/sparkfun/SparkFun_u-blox_GNSS_v3). Version 3 uses the u-blox Configuration Interface (VALSET and VALGET) to configure the module, instead of the deprecated UBX-CFG messages. For modules like the F9 and M10, we recommend upgrading to Version 3. However, older modules like the M8 do not support the Configuration Interface. For those you will need to keep using Version 2 of the library. We will continue to support both._
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/1172)** - Basic hookup guide for the ZED-F9R.
 
 Product Versions
