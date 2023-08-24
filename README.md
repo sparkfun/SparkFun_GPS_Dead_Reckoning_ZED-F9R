@@ -1,11 +1,18 @@
 SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)
 ========================================
 
-[![SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)](https://cdn.sparkfun.com//assets/parts/1/5/0/5/9/16344-SparkFun_GPS-RTK_Dead_Reckoning_Breakout_-_ZED-F9R__Qwiic_-01a.jpg)](https://www.sparkfun.com/products/16344)
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://www.sparkfun.com/products/22693"><img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/2/8/5/2/22693-_GPS_SparkFun_RTK_Dead_Reckoning_Breakout_ZED-F9R-_01.jpg" alt="SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)"></a></td>
+   <td><a href="https://www.sparkfun.com/products/22660"><img src="https://cdn.sparkfun.com/r/600-600/assets/parts/2/2/8/1/9/22660-_GPS-_01.jpg" alt="SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R, SMA (Qwiic)"></a></td>
+  </tr>
+  <tr align="center">
+   <td><i>SparkFun GPS-RTK Dead Reckoning Breakout <br /> - ZED-F9R, u.FL (Qwiic) [<a href="https://www.sparkfun.com/products/22693">22693</a>]</i></td>
+   <td><i>SparkFun GPS-RTK Dead Reckoning Breakout <br /> - ZED-F9R, SMA (Qwiic) [<a href="https://www.sparkfun.com/products/22660">GPS-22660</a>]</i></td>
+  </tr>
+</table>
 
-[*SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic) (GPS-16344)*](https://www.sparkfun.com/products/16344)
-
-The SparkFun ZED-F9R GPS Breakout is a high precision, sensor fusion GPS board with equally impressive configuration options and takes advantage of u-blox's Automotive Dead Reckoning (ADR) technology. The ZED-F9R module provides a highly accurate and continuous position by fusing a 3D IMU sensor, wheel ticks, a vehicle dynamics model, correction data, and GNSS measurements.
+The SparkFun GPS-RTK Dead Reckoning ZED-F9R Breakout (u.FL and SMA) is a high precision, sensor fusion GPS board with equally impressive configuration options and takes advantage of u-blox's Automotive Dead Reckoning (ADR) technology. The ZED-F9R module provides a highly accurate and continuous position by fusing a 3D IMU sensor, wheel ticks, a vehicle dynamics model, correction data, and GNSS measurements.
 
 The ZED-F9R module is a 184-channel u-blox F9 engine GNSS receiver, meaning it can receive signals from the GPS, GLONASS, Galileo, and BeiDou constellations with ~0.2 meter accuracy! That's right, such accuracy can be achieved with an RTK navigation solution when used with a correction source. Note that the ZED-F9R can only operate as a rover, so you will need to connect to a base station. The module supports concurrent reception of four GNSS systems. The combination of GNSS and integrated 3D sensor measurements on the ZED-F9R provide accurate, real-time positioning rates of up to 30Hz.
 
@@ -32,7 +39,9 @@ Documentation
 
 Product Versions
 ----------------
-* [GPS-16344](https://www.sparkfun.com/products/16344)
+* [GPS-22693](https://www.sparkfun.com/products/22693) - u.FL, v1.2
+* [GPS-22660](https://www.sparkfun.com/products/22660) - SMA, V1.1
+* [GPS-16344](https://www.sparkfun.com/products/16344) - u.FL, v1.0 initial release
 
 Version History
 ---------------
