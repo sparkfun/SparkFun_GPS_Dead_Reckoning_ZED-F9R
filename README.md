@@ -1,4 +1,4 @@
-SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R (Qwiic)
+SparkFun GPS-RTK Dead Reckoning Breakout - ZED-F9R, u.FL and SMA (Qwiic)
 ========================================
 
 <table class="table table-hover table-striped table-bordered">
